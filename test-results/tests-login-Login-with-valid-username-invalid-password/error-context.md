@@ -1,0 +1,100 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - generic [ref=e4]:
+      - generic [ref=e5]:
+        - img "Logo" [ref=e6]
+        - heading "TaskHub" [level=4] [ref=e7]
+      - generic [ref=e8]:
+        - generic [ref=e9]:
+          - img "bell" [ref=e10] [cursor=pointer]:
+            - img [ref=e11]
+          - superscript [ref=e13]:
+            - generic [ref=e15]: "3"
+        - generic [ref=e16]:
+          - img "user" [ref=e18]:
+            - img [ref=e19]
+          - generic [ref=e21]: Shashank
+          - button "logout Logout" [ref=e22] [cursor=pointer]:
+            - img "logout" [ref=e24]:
+              - img [ref=e25]
+            - generic [ref=e27]: Logout
+  - generic [ref=e28]:
+    - banner [ref=e29]:
+      - generic [ref=e30]:
+        - button "Expand sidebar" [ref=e31] [cursor=pointer]:
+          - img "menu-unfold" [ref=e33]:
+            - img [ref=e34]
+        - generic [ref=e36]:
+          - heading "Hello Shashank," [level=4] [ref=e37]
+          - generic [ref=e38]: Welcome to TaskHub
+      - generic [ref=e39]:
+        - button "plus Create Dashboard" [ref=e40] [cursor=pointer]:
+          - img "plus" [ref=e42]:
+            - img [ref=e43]
+          - generic [ref=e46]: Create Dashboard
+        - button "setting Settings" [ref=e47] [cursor=pointer]:
+          - img "setting" [ref=e49]:
+            - img [ref=e50]
+          - generic [ref=e52]: Settings
+    - main [ref=e55]:
+      - generic [ref=e58]:
+        - generic [ref=e64]:
+          - generic [ref=e67]:
+            - searchbox "Search projects, tasks, or subtasks" [ref=e69]
+            - button "search" [ref=e72] [cursor=pointer]:
+              - img "search" [ref=e74]:
+                - img [ref=e75]
+          - button "reload Reset" [ref=e78] [cursor=pointer]:
+            - img "reload" [ref=e80]:
+              - img [ref=e81]
+            - generic [ref=e83]: Reset
+          - button "sort-ascending" [ref=e85] [cursor=pointer]:
+            - img "sort-ascending" [ref=e87]:
+              - img [ref=e88]
+        - separator [ref=e90]
+        - main [ref=e91]:
+          - generic [ref=e92]:
+            - generic [ref=e93]:
+              - generic [ref=e94]:
+                - generic [ref=e96]:
+                  - generic [ref=e97]: P-Sales
+                  - text: "4"
+                - generic [ref=e99]:
+                  - button "T-Closing & Onboarding right" [ref=e102] [cursor=pointer]:
+                    - generic [ref=e103]: T-Closing & Onboarding
+                    - img "right" [ref=e104]:
+                      - img [ref=e105]
+                  - button "T-Solution Pitch & Proposal right" [ref=e110] [cursor=pointer]:
+                    - generic [ref=e111]: T-Solution Pitch & Proposal
+                    - img "right" [ref=e112]:
+                      - img [ref=e113]
+                  - button "T-Post-Sale Engagement right" [ref=e118] [cursor=pointer]:
+                    - generic [ref=e119]: T-Post-Sale Engagement
+                    - img "right" [ref=e120]:
+                      - img [ref=e121]
+                  - button "T-Proposal & Negotiation right" [ref=e126] [cursor=pointer]:
+                    - generic [ref=e127]: T-Proposal & Negotiation
+                    - img "right" [ref=e128]:
+                      - img [ref=e129]
+              - separator [ref=e131]
+            - generic [ref=e133]:
+              - generic [ref=e135]:
+                - generic [ref=e136]: P-SEO
+                - text: "3"
+              - generic [ref=e138]:
+                - button "T-Technical SEO right" [ref=e141] [cursor=pointer]:
+                  - generic [ref=e142]: T-Technical SEO
+                  - img "right" [ref=e143]:
+                    - img [ref=e144]
+                - button "T-On-Page Optimization right" [ref=e149] [cursor=pointer]:
+                  - generic [ref=e150]: T-On-Page Optimization
+                  - img "right" [ref=e151]:
+                    - img [ref=e152]
+                - button "T-SEO Strategy & Planning right" [ref=e157] [cursor=pointer]:
+                  - generic [ref=e158]: T-SEO Strategy & Planning
+                  - img "right" [ref=e159]:
+                    - img [ref=e160]
+```

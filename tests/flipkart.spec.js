@@ -33,8 +33,7 @@ test('Automate Flipkart - Search Product', async ({ page }) => {
   // Wait for the product title
   await productPage.waitForSelector('span.B_NuCI');
 
-  const title = await productPage.locator('span.B_NuCI').innerText();
-  console.log("Product Title:", title);
+
 
   expect(title.length).toBeGreaterThan(0);
 });
