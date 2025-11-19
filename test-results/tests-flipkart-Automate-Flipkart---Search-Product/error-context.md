@@ -1,0 +1,1463 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e3]:
+  - generic [ref=e7]:
+    - generic [ref=e9]:
+      - link "Flipkart" [ref=e10] [cursor=pointer]:
+        - /url: /
+        - img "Flipkart" [ref=e11]
+      - link "Explore Plus" [ref=e12] [cursor=pointer]:
+        - /url: /plus
+        - text: Explore Plus
+        - img [ref=e13]
+    - generic [ref=e16]:
+      - textbox "Search for products, brands and more" [ref=e18]: iphone 13 cover
+      - button [ref=e19] [cursor=pointer]:
+        - img [ref=e20]
+    - link "Login" [ref=e28] [cursor=pointer]:
+      - /url: /account/login?ret=/search%3Fq%3Diphone%2B13%2Bcover%26as%3Don%26as-show%3Don%26otracker%3DAS_Query_OrganicAutoSuggest_6_9_na_na_na%26otracker1%3DAS_Query_OrganicAutoSuggest_6_9_na_na_na%26as-pos%3D6%26as-type%3DRECENT%26suggestionId%3Diphone%2B13%2Bcover%26requestId%3D9f84b437-baea-4b3a-ab44-e44f779ebff9%26as-searchtext%3DiPhone%252013
+    - link "Become a Seller" [ref=e30] [cursor=pointer]:
+      - /url: https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect
+      - generic [ref=e31]: Become a Seller
+    - generic [ref=e33] [cursor=pointer]:
+      - generic [ref=e36]: More
+      - img [ref=e37]
+    - link "Cart" [ref=e42] [cursor=pointer]:
+      - /url: /viewcart?exploreMode=true&preference=FLIPKART
+      - img [ref=e43]
+      - generic [ref=e45]: Cart
+  - generic [ref=e50]:
+    - generic [ref=e51] [cursor=pointer]:
+      - text: Electronics
+      - img [ref=e52]
+    - generic [ref=e54] [cursor=pointer]:
+      - text: TVs & Appliances
+      - img [ref=e55]
+    - generic [ref=e57] [cursor=pointer]:
+      - text: Men
+      - img [ref=e58]
+    - generic [ref=e60] [cursor=pointer]:
+      - text: Women
+      - img [ref=e61]
+    - generic [ref=e63] [cursor=pointer]:
+      - text: Baby & Kids
+      - img [ref=e64]
+    - generic [ref=e66] [cursor=pointer]:
+      - text: Home & Furniture
+      - img [ref=e67]
+    - generic [ref=e69] [cursor=pointer]:
+      - text: Sports, Books & More
+      - img [ref=e70]
+    - link "Flights" [ref=e72] [cursor=pointer]:
+      - /url: /travel/flights?otracker=nmenu_Flights
+    - link "Offer Zone" [ref=e73] [cursor=pointer]:
+      - /url: /offers-list/top-deals?screen=dynamic&pk=themeViews%3DDT-OMU-A2%3ADT-OMU~widgetType%3DdealCard~contentType%3Dneo&otracker=nmenu_offer-zone
+  - generic [ref=e74]:
+    - generic [ref=e75]:
+      - generic [ref=e79]:
+        - generic [ref=e82]: Filters
+        - generic [ref=e84]:
+          - generic [ref=e85]: CATEGORIES
+          - generic [ref=e87]:
+            - img [ref=e89] [cursor=pointer]
+            - link "Mobiles & Accessories" [ref=e91] [cursor=pointer]:
+              - /url: /mobiles-accessories/pr?sid=tyy&q=iphone+13+cover&otracker=categorytree
+          - generic [ref=e93]:
+            - img [ref=e95] [cursor=pointer]
+            - link "Mobile Accessories" [ref=e97] [cursor=pointer]:
+              - /url: /mobile-accessories/pr?sid=tyy,4mr&q=iphone+13+cover&otracker=categorytree
+          - generic [ref=e98]:
+            - generic [ref=e99]:
+              - img [ref=e101] [cursor=pointer]
+              - link "Cases & Covers" [ref=e103] [cursor=pointer]:
+                - /url: /mobile-accessories/cases-and-covers/pr?sid=tyy,4mr,q2u&q=iphone+13+cover&otracker=categorytree
+            - generic [ref=e104]:
+              - link "Plain Cases & Covers" [ref=e105] [cursor=pointer]:
+                - /url: /mobile-accessories/cases-and-covers/plain-cases-covers/pr?sid=tyy,4mr,q2u,ajg&q=iphone+13+cover&otracker=categorytree
+              - link "Designer Cases & Covers" [ref=e106] [cursor=pointer]:
+                - /url: /mobile-accessories/cases-and-covers/designer-cases-covers/pr?sid=tyy,4mr,q2u,qgl&q=iphone+13+cover&otracker=categorytree
+        - generic [ref=e107]:
+          - generic [ref=e109]: Price
+          - generic [ref=e130]:
+            - generic [ref=e131]: .
+            - generic [ref=e132]: .
+            - generic [ref=e133]: .
+            - generic [ref=e134]: .
+            - generic [ref=e135]: .
+            - generic [ref=e136]: .
+            - generic [ref=e137]: .
+            - generic [ref=e138]: .
+            - generic [ref=e139]: .
+            - generic [ref=e140]: .
+            - generic: .
+          - generic [ref=e141]:
+            - combobox [ref=e143]:
+              - option "Min" [selected]
+              - option "₹100"
+              - option "₹200"
+              - option "₹300"
+              - option "₹400"
+              - option "₹500"
+              - option "₹750"
+              - option "₹1000"
+              - option "₹2000"
+              - option "₹5000"
+            - generic [ref=e144]: to
+            - combobox [ref=e146]:
+              - option "₹100"
+              - option "₹200"
+              - option "₹300"
+              - option "₹400"
+              - option "₹500"
+              - option "₹750"
+              - option "₹1000"
+              - option "₹2000"
+              - option "₹5000"
+              - option "₹5000+" [selected]
+        - generic [ref=e147]:
+          - img [ref=e152] [cursor=pointer]
+          - generic [ref=e154] [cursor=pointer]: "?"
+        - generic [ref=e155]:
+          - generic [ref=e156] [cursor=pointer]:
+            - generic [ref=e157]: Customer Ratings
+            - img [ref=e158]
+          - generic [ref=e161]:
+            - generic "4★ & above" [ref=e162] [cursor=pointer]:
+              - generic [ref=e166]: 4★ & above
+            - generic "3★ & above" [ref=e167] [cursor=pointer]:
+              - generic [ref=e171]: 3★ & above
+            - generic "2★ & above" [ref=e172] [cursor=pointer]:
+              - generic [ref=e176]: 2★ & above
+            - generic "1★ & above" [ref=e177] [cursor=pointer]:
+              - generic [ref=e181]: 1★ & above
+        - generic [ref=e183] [cursor=pointer]:
+          - generic [ref=e184]: Type
+          - img [ref=e185]
+        - generic [ref=e187]:
+          - generic [ref=e188] [cursor=pointer]:
+            - generic [ref=e189]: Brand
+            - img [ref=e190]
+          - generic [ref=e192]:
+            - generic [ref=e193]:
+              - generic [ref=e194]:
+                - img [ref=e195]
+                - textbox "Search Brand" [ref=e199]
+              - generic "Spigen" [ref=e200] [cursor=pointer]:
+                - generic [ref=e204]: Spigen
+              - generic "Sprig" [ref=e205] [cursor=pointer]:
+                - generic [ref=e209]: Sprig
+              - generic "Flipkart SmartBuy" [ref=e210] [cursor=pointer]:
+                - generic [ref=e214]: Flipkart SmartBuy
+              - generic "Ringke" [ref=e215] [cursor=pointer]:
+                - generic [ref=e219]: Ringke
+              - generic "DailyObjects" [ref=e220] [cursor=pointer]:
+                - generic [ref=e224]: DailyObjects
+              - generic "Kapaver" [ref=e225] [cursor=pointer]:
+                - generic [ref=e229]: Kapaver
+            - generic [ref=e230] [cursor=pointer]: 2352 MORE
+        - generic [ref=e232] [cursor=pointer]:
+          - generic [ref=e233]: Discount
+          - img [ref=e234]
+        - generic [ref=e237] [cursor=pointer]:
+          - generic [ref=e238]: Color
+          - img [ref=e239]
+        - generic [ref=e242] [cursor=pointer]:
+          - generic [ref=e243]: Material
+          - img [ref=e244]
+        - generic [ref=e247] [cursor=pointer]:
+          - generic [ref=e248]: Theme
+          - img [ref=e249]
+        - generic [ref=e252] [cursor=pointer]:
+          - generic [ref=e253]: Popular Collections
+          - img [ref=e254]
+        - generic [ref=e257] [cursor=pointer]:
+          - generic [ref=e258]: Availability
+          - img [ref=e259]
+        - generic [ref=e262] [cursor=pointer]:
+          - generic [ref=e263]: GST Invoice Available
+          - img [ref=e264]
+        - generic [ref=e266]:
+          - generic [ref=e267] [cursor=pointer]:
+            - generic [ref=e268]: Offers
+            - img [ref=e269]
+          - generic [ref=e272]:
+            - generic "Special Price" [ref=e273] [cursor=pointer]:
+              - generic [ref=e277]: Special Price
+            - generic "Buy More, Save More" [ref=e278] [cursor=pointer]:
+              - generic [ref=e282]: Buy More, Save More
+      - generic [ref=e283]:
+        - generic [ref=e286]:
+          - generic [ref=e287]:
+            - generic [ref=e288]:
+              - link "Home" [ref=e289] [cursor=pointer]:
+                - /url: /
+              - img [ref=e290]
+            - generic [ref=e292]:
+              - link "Mobiles & Accessories" [ref=e293] [cursor=pointer]:
+                - /url: /mobiles-accessories/pr?sid=tyy&marketplace=FLIPKART
+              - img [ref=e294]
+            - generic [ref=e296]:
+              - link "Mobile Accessories" [ref=e297] [cursor=pointer]:
+                - /url: /mobile-accessories/pr?sid=tyy,4mr&marketplace=FLIPKART
+              - img [ref=e298]
+            - link "Cases & Covers" [ref=e301] [cursor=pointer]:
+              - /url: /mobile-accessories/cases-and-covers/pr?sid=tyy,4mr,q2u&marketplace=FLIPKART
+          - generic [ref=e302]: Showing 1 – 40 of 35,513 results for "iphone 13 cover"
+          - generic [ref=e303]:
+            - generic [ref=e304]: Sort By
+            - generic [ref=e305]: Relevance
+            - generic [ref=e306] [cursor=pointer]: Popularity
+            - generic [ref=e307] [cursor=pointer]: Price -- Low to High
+            - generic [ref=e308] [cursor=pointer]: Price -- High to Low
+            - generic [ref=e309] [cursor=pointer]: Newest First
+        - generic [ref=e311]:
+          - generic [ref=e313]:
+            - link "CYRILL by Spigen Back Cover for Apple iPhone 13" [ref=e314] [cursor=pointer]:
+              - /url: /cyrill-spigen-back-cover-apple-iphone-13/p/itmb8d360a9708c5?pid=ACCGFZN3GYGDCZYH&lid=LSTACCGFZN3GYGDCZYHNXCZFA&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_1&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=en_YO1UISzDr7Cs42HwdMqYYkzXHe2aTSOK6xjJjW4xz6B4A5xkQQNgqc3kU6S6zQknCyegHeIMQ7GcBIrLitqVIQ%3D%3D&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - img "CYRILL by Spigen Back Cover for Apple iPhone 13" [ref=e318]
+              - img [ref=e321]
+            - img [ref=e324]
+            - link "CYRILL by Spigen Back Cover for Apple iPhone 13" [ref=e327] [cursor=pointer]:
+              - /url: /cyrill-spigen-back-cover-apple-iphone-13/p/itmb8d360a9708c5?pid=ACCGFZN3GYGDCZYH&lid=LSTACCGFZN3GYGDCZYHNXCZFA&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_1&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=en_YO1UISzDr7Cs42HwdMqYYkzXHe2aTSOK6xjJjW4xz6B4A5xkQQNgqc3kU6S6zQknCyegHeIMQ7GcBIrLitqVIQ%3D%3D&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+            - generic [ref=e328]: "Purple, Shock Proof, Pack of: 1"
+            - generic [ref=e329]:
+              - generic [ref=e331]:
+                - text: "3.7"
+                - img [ref=e332]
+              - text: (20)
+            - img [ref=e334]
+            - link "₹1,499 ₹2,199 31% off" [ref=e335] [cursor=pointer]:
+              - /url: /cyrill-spigen-back-cover-apple-iphone-13/p/itmb8d360a9708c5?pid=ACCGFZN3GYGDCZYH&lid=LSTACCGFZN3GYGDCZYHNXCZFA&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_1&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=en_YO1UISzDr7Cs42HwdMqYYkzXHe2aTSOK6xjJjW4xz6B4A5xkQQNgqc3kU6S6zQknCyegHeIMQ7GcBIrLitqVIQ%3D%3D&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - generic [ref=e336]:
+                - generic [ref=e337]: ₹1,499
+                - generic [ref=e338]: ₹2,199
+                - generic [ref=e339]: 31% off
+            - generic [ref=e342]: Bank Offer
+          - generic [ref=e344]:
+            - link "Flipkart SmartBuy Back Cover for Apple iPhone 13" [ref=e345] [cursor=pointer]:
+              - /url: /flipkart-smartbuy-back-cover-apple-iphone-13/p/itmb523b5b40cf53?pid=ACCHCTPYRXGUK3GG&lid=LSTACCHCTPYRXGUK3GGWQFKYH&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_2&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=en_YO1UISzDr7Cs42HwdMqYYkzXHe2aTSOK6xjJjW4xz6ACkLOblLBHpCHoLbi9Jk3KtQwJnRBpojoQwxX-drJXmw%3D%3D&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - img "Flipkart SmartBuy Back Cover for Apple iPhone 13" [ref=e349]
+              - img [ref=e352]
+            - img [ref=e355]
+            - link "Flipkart SmartBuy Back Cover for Apple iPhone 13" [ref=e358] [cursor=pointer]:
+              - /url: /flipkart-smartbuy-back-cover-apple-iphone-13/p/itmb523b5b40cf53?pid=ACCHCTPYRXGUK3GG&lid=LSTACCHCTPYRXGUK3GGWQFKYH&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_2&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=en_YO1UISzDr7Cs42HwdMqYYkzXHe2aTSOK6xjJjW4xz6ACkLOblLBHpCHoLbi9Jk3KtQwJnRBpojoQwxX-drJXmw%3D%3D&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+            - generic [ref=e359]: "Transparent, Magsafe, Pack of: 1"
+            - img [ref=e361]
+            - link "₹297 ₹1,199 75% off" [ref=e362] [cursor=pointer]:
+              - /url: /flipkart-smartbuy-back-cover-apple-iphone-13/p/itmb523b5b40cf53?pid=ACCHCTPYRXGUK3GG&lid=LSTACCHCTPYRXGUK3GGWQFKYH&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_2&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=en_YO1UISzDr7Cs42HwdMqYYkzXHe2aTSOK6xjJjW4xz6ACkLOblLBHpCHoLbi9Jk3KtQwJnRBpojoQwxX-drJXmw%3D%3D&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - generic [ref=e363]:
+                - generic [ref=e364]: ₹297
+                - generic [ref=e365]: ₹1,199
+                - generic [ref=e366]: 75% off
+            - generic [ref=e369]: Bank Offer
+          - generic [ref=e371]:
+            - link "Socaso Back Cover for Apple Iphone 13" [ref=e372] [cursor=pointer]:
+              - /url: /socaso-back-cover-apple-iphone-13/p/itm11c478542ce61?pid=ACCGWJDBWYKRWBZ5&lid=LSTACCGWJDBWYKRWBZ51YTDAW&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_3&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=6acfb0ba-72d7-4126-bcb1-06884884ccb2.ACCGWJDBWYKRWBZ5.SEARCH&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - img "Socaso Back Cover for Apple Iphone 13" [ref=e376]
+              - img [ref=e379]
+            - link "Socaso Back Cover for Apple Iphone 13" [ref=e381] [cursor=pointer]:
+              - /url: /socaso-back-cover-apple-iphone-13/p/itm11c478542ce61?pid=ACCGWJDBWYKRWBZ5&lid=LSTACCGWJDBWYKRWBZ51YTDAW&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_3&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=6acfb0ba-72d7-4126-bcb1-06884884ccb2.ACCGWJDBWYKRWBZ5.SEARCH&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+            - generic [ref=e382]: "Transparent, Magsafe, Pack of: 1"
+            - generic [ref=e383]:
+              - generic [ref=e385]:
+                - text: "4.2"
+                - img [ref=e386]
+              - text: (2,138)
+            - img [ref=e388]
+            - link "₹181 ₹899 79% off" [ref=e389] [cursor=pointer]:
+              - /url: /socaso-back-cover-apple-iphone-13/p/itm11c478542ce61?pid=ACCGWJDBWYKRWBZ5&lid=LSTACCGWJDBWYKRWBZ51YTDAW&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_3&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=6acfb0ba-72d7-4126-bcb1-06884884ccb2.ACCGWJDBWYKRWBZ5.SEARCH&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - generic [ref=e390]:
+                - generic [ref=e391]: ₹181
+                - generic [ref=e392]: ₹899
+                - generic [ref=e393]: 79% off
+            - generic [ref=e396]: Bank Offer
+          - generic [ref=e398]:
+            - link "Doubledicestore Back Cover for Apple iPhone 13 Bestseller" [ref=e399] [cursor=pointer]:
+              - /url: /doubledicestore-back-cover-apple-iphone-13/p/itm9781a46582d15?pid=ACCH6NNUD4K8WRKT&lid=LSTACCH6NNUD4K8WRKTLABASA&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&spotlightTagId=default_BestsellerId_tyy%2F4mr%2Fq2u&srno=s_1_4&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=search-autosuggest&iid=6acfb0ba-72d7-4126-bcb1-06884884ccb2.ACCH6NNUD4K8WRKT.SEARCH&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - img "Doubledicestore Back Cover for Apple iPhone 13" [ref=e403]
+              - generic [ref=e404]: Bestseller
+              - img [ref=e407]
+            - link "Doubledicestore Back Cover for Apple iPhone 13" [ref=e409] [cursor=pointer]:
+              - /url: /doubledicestore-back-cover-apple-iphone-13/p/itm9781a46582d15?pid=ACCH6NNUD4K8WRKT&lid=LSTACCH6NNUD4K8WRKTLABASA&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&spotlightTagId=default_BestsellerId_tyy%2F4mr%2Fq2u&srno=s_1_4&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=search-autosuggest&iid=6acfb0ba-72d7-4126-bcb1-06884884ccb2.ACCH6NNUD4K8WRKT.SEARCH&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+            - generic [ref=e410]: "Black, Transparent, Magsafe, Pack of: 1"
+            - generic [ref=e411]:
+              - generic [ref=e413]:
+                - text: "4.3"
+                - img [ref=e414]
+              - text: (10,690)
+            - img [ref=e416]
+            - link "₹176 ₹999 82% off" [ref=e417] [cursor=pointer]:
+              - /url: /doubledicestore-back-cover-apple-iphone-13/p/itm9781a46582d15?pid=ACCH6NNUD4K8WRKT&lid=LSTACCH6NNUD4K8WRKTLABASA&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&spotlightTagId=default_BestsellerId_tyy%2F4mr%2Fq2u&srno=s_1_4&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=search-autosuggest&iid=6acfb0ba-72d7-4126-bcb1-06884884ccb2.ACCH6NNUD4K8WRKT.SEARCH&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - generic [ref=e418]:
+                - generic [ref=e419]: ₹176
+                - generic [ref=e420]: ₹999
+                - generic [ref=e421]: 82% off
+            - generic [ref=e424]: Hot Deal
+        - generic [ref=e426]:
+          - generic [ref=e428]:
+            - link "KARWAN Back Cover for Apple iPhone 13" [ref=e429] [cursor=pointer]:
+              - /url: /karwan-back-cover-apple-iphone-13/p/itm5fb9f68356e08?pid=ACCHF6CCXWKA63GG&lid=LSTACCHF6CCXWKA63GGCMC0MQ&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_5&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=en_YO1UISzDr7Cs42HwdMqYYkzXHe2aTSOK6xjJjW4xz6A7NuSkWQYP6LIXUxK4DNSMBSSTj-leYPeorPSYx7X54Q%3D%3D&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - img "KARWAN Back Cover for Apple iPhone 13" [ref=e433]
+              - img [ref=e436]
+            - img [ref=e439]
+            - link "KARWAN Back Cover for Apple iPhone 13" [ref=e442] [cursor=pointer]:
+              - /url: /karwan-back-cover-apple-iphone-13/p/itm5fb9f68356e08?pid=ACCHF6CCXWKA63GG&lid=LSTACCHF6CCXWKA63GGCMC0MQ&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_5&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=en_YO1UISzDr7Cs42HwdMqYYkzXHe2aTSOK6xjJjW4xz6A7NuSkWQYP6LIXUxK4DNSMBSSTj-leYPeorPSYx7X54Q%3D%3D&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+            - generic [ref=e443]: "Green, Pack of: 1"
+            - generic [ref=e444]:
+              - generic [ref=e446]:
+                - text: "4"
+                - img [ref=e447]
+              - text: (10)
+            - img [ref=e449]
+            - link "₹453 ₹1,499 69% off" [ref=e450] [cursor=pointer]:
+              - /url: /karwan-back-cover-apple-iphone-13/p/itm5fb9f68356e08?pid=ACCHF6CCXWKA63GG&lid=LSTACCHF6CCXWKA63GGCMC0MQ&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_5&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=en_YO1UISzDr7Cs42HwdMqYYkzXHe2aTSOK6xjJjW4xz6A7NuSkWQYP6LIXUxK4DNSMBSSTj-leYPeorPSYx7X54Q%3D%3D&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - generic [ref=e451]:
+                - generic [ref=e452]: ₹453
+                - generic [ref=e453]: ₹1,499
+                - generic [ref=e454]: 69% off
+            - generic [ref=e457]: Lowest price since launch
+          - generic [ref=e459]:
+            - link "KARWAN Back Cover for Apple iPhone 13" [ref=e460] [cursor=pointer]:
+              - /url: /karwan-back-cover-apple-iphone-13/p/itm6c1884da24cc1?pid=ACCHF6CCNKQBR9GR&lid=LSTACCHF6CCNKQBR9GRPTCJS6&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_6&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=en_YO1UISzDr7Cs42HwdMqYYkzXHe2aTSOK6xjJjW4xz6B1DtM3dVNFFSp3Pgw2Dek39XgIbAaajk8o-3wPPIc_2g%3D%3D&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - img "KARWAN Back Cover for Apple iPhone 13" [ref=e464]
+              - img [ref=e467]
+            - img [ref=e470]
+            - link "KARWAN Back Cover for Apple iPhone 13" [ref=e473] [cursor=pointer]:
+              - /url: /karwan-back-cover-apple-iphone-13/p/itm6c1884da24cc1?pid=ACCHF6CCNKQBR9GR&lid=LSTACCHF6CCNKQBR9GRPTCJS6&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_6&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=en_YO1UISzDr7Cs42HwdMqYYkzXHe2aTSOK6xjJjW4xz6B1DtM3dVNFFSp3Pgw2Dek39XgIbAaajk8o-3wPPIc_2g%3D%3D&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+            - generic [ref=e474]: "Black, Pack of: 1"
+            - generic [ref=e475]:
+              - generic [ref=e477]:
+                - text: "4"
+                - img [ref=e478]
+              - text: (10)
+            - link "₹453 ₹1,499 69% off" [ref=e479] [cursor=pointer]:
+              - /url: /karwan-back-cover-apple-iphone-13/p/itm6c1884da24cc1?pid=ACCHF6CCNKQBR9GR&lid=LSTACCHF6CCNKQBR9GRPTCJS6&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_6&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=en_YO1UISzDr7Cs42HwdMqYYkzXHe2aTSOK6xjJjW4xz6B1DtM3dVNFFSp3Pgw2Dek39XgIbAaajk8o-3wPPIc_2g%3D%3D&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - generic [ref=e480]:
+                - generic [ref=e481]: ₹453
+                - generic [ref=e482]: ₹1,499
+                - generic [ref=e483]: 69% off
+            - generic [ref=e486]: Bank Offer
+          - generic [ref=e488]:
+            - link "Celvas Back Cover for Apple iPhone 13" [ref=e489] [cursor=pointer]:
+              - /url: /celvas-back-cover-apple-iphone-13/p/itmd838771045059?pid=ACCGXUPDHQGDK3N4&lid=LSTACCGXUPDHQGDK3N4RMVI7I&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_7&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=6acfb0ba-72d7-4126-bcb1-06884884ccb2.ACCGXUPDHQGDK3N4.SEARCH&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - img "Celvas Back Cover for Apple iPhone 13" [ref=e493]
+              - img [ref=e496]
+            - link "Celvas Back Cover for Apple iPhone 13" [ref=e498] [cursor=pointer]:
+              - /url: /celvas-back-cover-apple-iphone-13/p/itmd838771045059?pid=ACCGXUPDHQGDK3N4&lid=LSTACCGXUPDHQGDK3N4RMVI7I&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_7&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=6acfb0ba-72d7-4126-bcb1-06884884ccb2.ACCGXUPDHQGDK3N4.SEARCH&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+            - generic [ref=e499]: "Blue, Grip Case, Silicon, Pack of: 1"
+            - generic [ref=e500]:
+              - generic [ref=e502]:
+                - text: "4.2"
+                - img [ref=e503]
+              - text: (2,844)
+            - img [ref=e505]
+            - link "₹264 ₹999 73% off" [ref=e506] [cursor=pointer]:
+              - /url: /celvas-back-cover-apple-iphone-13/p/itmd838771045059?pid=ACCGXUPDHQGDK3N4&lid=LSTACCGXUPDHQGDK3N4RMVI7I&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_7&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=6acfb0ba-72d7-4126-bcb1-06884884ccb2.ACCGXUPDHQGDK3N4.SEARCH&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - generic [ref=e507]:
+                - generic [ref=e508]: ₹264
+                - generic [ref=e509]: ₹999
+                - generic [ref=e510]: 73% off
+            - generic [ref=e513]: Lowest price in the year
+          - generic [ref=e515]:
+            - link "Doubledicestore Back Cover for Apple iPhone 13" [ref=e516] [cursor=pointer]:
+              - /url: /doubledicestore-back-cover-apple-iphone-13/p/itm74fad96ad1624?pid=ACCH9HQA24DFGGZH&lid=LSTACCH9HQA24DFGGZHLB0F3Z&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_8&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=6acfb0ba-72d7-4126-bcb1-06884884ccb2.ACCH9HQA24DFGGZH.SEARCH&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - img "Doubledicestore Back Cover for Apple iPhone 13" [ref=e520]
+              - img [ref=e523]
+            - link "Doubledicestore Back Cover for Apple iPhone 13" [ref=e525] [cursor=pointer]:
+              - /url: /doubledicestore-back-cover-apple-iphone-13/p/itm74fad96ad1624?pid=ACCH9HQA24DFGGZH&lid=LSTACCH9HQA24DFGGZHLB0F3Z&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_8&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=6acfb0ba-72d7-4126-bcb1-06884884ccb2.ACCH9HQA24DFGGZH.SEARCH&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+            - generic [ref=e526]: "Black, Pack of: 1"
+            - generic [ref=e527]:
+              - generic [ref=e529]:
+                - text: "4.3"
+                - img [ref=e530]
+              - text: (10,690)
+            - img [ref=e532]
+            - link "₹233 ₹999 76% off" [ref=e533] [cursor=pointer]:
+              - /url: /doubledicestore-back-cover-apple-iphone-13/p/itm74fad96ad1624?pid=ACCH9HQA24DFGGZH&lid=LSTACCH9HQA24DFGGZHLB0F3Z&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_8&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=6acfb0ba-72d7-4126-bcb1-06884884ccb2.ACCH9HQA24DFGGZH.SEARCH&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - generic [ref=e534]:
+                - generic [ref=e535]: ₹233
+                - generic [ref=e536]: ₹999
+                - generic [ref=e537]: 76% off
+            - generic [ref=e540]: Bank Offer
+        - generic [ref=e542]:
+          - generic [ref=e544]:
+            - link "Monarch Back Cover for Apple iPhone 13" [ref=e545] [cursor=pointer]:
+              - /url: /monarch-back-cover-apple-iphone-13/p/itm00de74d256bc0?pid=ACCGBF88ZHQ3GPGP&lid=LSTACCGBF88ZHQ3GPGPD57IEF&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_9&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=6acfb0ba-72d7-4126-bcb1-06884884ccb2.ACCGBF88ZHQ3GPGP.SEARCH&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - img "Monarch Back Cover for Apple iPhone 13" [ref=e549]
+              - img [ref=e552]
+            - link "Monarch Back Cover for Apple iPhone 13" [ref=e554] [cursor=pointer]:
+              - /url: /monarch-back-cover-apple-iphone-13/p/itm00de74d256bc0?pid=ACCGBF88ZHQ3GPGP&lid=LSTACCGBF88ZHQ3GPGPD57IEF&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_9&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=6acfb0ba-72d7-4126-bcb1-06884884ccb2.ACCGBF88ZHQ3GPGP.SEARCH&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+            - generic [ref=e555]: Brown, Flexible
+            - generic [ref=e556]:
+              - generic [ref=e558]:
+                - text: "4.3"
+                - img [ref=e559]
+              - text: (904)
+            - img [ref=e561]
+            - link "₹250 ₹1,599 84% off" [ref=e562] [cursor=pointer]:
+              - /url: /monarch-back-cover-apple-iphone-13/p/itm00de74d256bc0?pid=ACCGBF88ZHQ3GPGP&lid=LSTACCGBF88ZHQ3GPGPD57IEF&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_9&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=6acfb0ba-72d7-4126-bcb1-06884884ccb2.ACCGBF88ZHQ3GPGP.SEARCH&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - generic [ref=e563]:
+                - generic [ref=e564]: ₹250
+                - generic [ref=e565]: ₹1,599
+                - generic [ref=e566]: 84% off
+            - generic [ref=e569]: Hot Deal
+          - generic [ref=e571]:
+            - link "Doubledicestore Back Cover for Apple iPhone 13" [ref=e572] [cursor=pointer]:
+              - /url: /doubledicestore-back-cover-apple-iphone-13/p/itm24b0aadd9ba34?pid=ACCGXXF4CZCGFMJC&lid=LSTACCGXXF4CZCGFMJCGAYDQZ&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_10&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=6acfb0ba-72d7-4126-bcb1-06884884ccb2.ACCGXXF4CZCGFMJC.SEARCH&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - img "Doubledicestore Back Cover for Apple iPhone 13" [ref=e576]
+              - img [ref=e579]
+            - link "Doubledicestore Back Cover for Apple iPhone 13" [ref=e581] [cursor=pointer]:
+              - /url: /doubledicestore-back-cover-apple-iphone-13/p/itm24b0aadd9ba34?pid=ACCGXXF4CZCGFMJC&lid=LSTACCGXXF4CZCGFMJCGAYDQZ&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_10&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=6acfb0ba-72d7-4126-bcb1-06884884ccb2.ACCGXXF4CZCGFMJC.SEARCH&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+            - generic [ref=e582]: "Transparent, Pack of: 1"
+            - generic [ref=e583]:
+              - generic [ref=e585]:
+                - text: "4.3"
+                - img [ref=e586]
+              - text: (10,690)
+            - img [ref=e588]
+            - link "₹163 ₹999 83% off" [ref=e589] [cursor=pointer]:
+              - /url: /doubledicestore-back-cover-apple-iphone-13/p/itm24b0aadd9ba34?pid=ACCGXXF4CZCGFMJC&lid=LSTACCGXXF4CZCGFMJCGAYDQZ&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_10&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=6acfb0ba-72d7-4126-bcb1-06884884ccb2.ACCGXXF4CZCGFMJC.SEARCH&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - generic [ref=e590]:
+                - generic [ref=e591]: ₹163
+                - generic [ref=e592]: ₹999
+                - generic [ref=e593]: 83% off
+            - generic [ref=e596]: Hot Deal
+          - generic [ref=e598]:
+            - link "Spigen Slim Armor CS Back Cover for Apple iPhone 13" [ref=e599] [cursor=pointer]:
+              - /url: /spigen-slim-armor-cs-back-cover-apple-iphone-13/p/itmde68b150c929d?pid=ACCG6UTRR5QMFVW2&lid=LSTACCG6UTRR5QMFVW29R0TFT&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_11&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=en_YO1UISzDr7Cs42HwdMqYYkzXHe2aTSOK6xjJjW4xz6DPs-fZgIunVj61wrRItpbxN2uaf_PV3qWvAEJAOEOo5khz9c-MSIoFe8xMxkfU6dM%3D&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - img "Spigen Slim Armor CS Back Cover for Apple iPhone 13" [ref=e603]
+              - img [ref=e606]
+            - img [ref=e609]
+            - link "Spigen Slim Armor CS Back Cover for Apple iPhone 13" [ref=e612] [cursor=pointer]:
+              - /url: /spigen-slim-armor-cs-back-cover-apple-iphone-13/p/itmde68b150c929d?pid=ACCG6UTRR5QMFVW2&lid=LSTACCG6UTRR5QMFVW29R0TFT&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_11&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=en_YO1UISzDr7Cs42HwdMqYYkzXHe2aTSOK6xjJjW4xz6DPs-fZgIunVj61wrRItpbxN2uaf_PV3qWvAEJAOEOo5khz9c-MSIoFe8xMxkfU6dM%3D&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+            - generic [ref=e613]: "Black, Shock Proof, Pack of: 1"
+            - generic [ref=e614]:
+              - generic [ref=e616]:
+                - text: "3.9"
+                - img [ref=e617]
+              - text: (32)
+            - img [ref=e619]
+            - link "₹1,699 ₹3,199 46% off" [ref=e620] [cursor=pointer]:
+              - /url: /spigen-slim-armor-cs-back-cover-apple-iphone-13/p/itmde68b150c929d?pid=ACCG6UTRR5QMFVW2&lid=LSTACCG6UTRR5QMFVW29R0TFT&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_11&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=en_YO1UISzDr7Cs42HwdMqYYkzXHe2aTSOK6xjJjW4xz6DPs-fZgIunVj61wrRItpbxN2uaf_PV3qWvAEJAOEOo5khz9c-MSIoFe8xMxkfU6dM%3D&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - generic [ref=e621]:
+                - generic [ref=e622]: ₹1,699
+                - generic [ref=e623]: ₹3,199
+                - generic [ref=e624]: 46% off
+            - generic [ref=e627]: Bank Offer
+          - generic [ref=e629]:
+            - link "KWINE CASE Back Cover for Apple iPhone 13" [ref=e630] [cursor=pointer]:
+              - /url: /kwine-case-back-cover-apple-iphone-13/p/itm1b19854985bd1?pid=ACCG8URNJNQGZJZU&lid=LSTACCG8URNJNQGZJZUB3SDVT&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_12&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=en_YO1UISzDr7Cs42HwdMqYYkzXHe2aTSOK6xjJjW4xz6CAxlh4EME_fcZWSuLAaSKVcmKNNteKOppXaN5nY_ez2A%3D%3D&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - img "KWINE CASE Back Cover for Apple iPhone 13" [ref=e634]
+              - img [ref=e637]
+            - img [ref=e640]
+            - link "KWINE CASE Back Cover for Apple iPhone 13" [ref=e643] [cursor=pointer]:
+              - /url: /kwine-case-back-cover-apple-iphone-13/p/itm1b19854985bd1?pid=ACCG8URNJNQGZJZU&lid=LSTACCG8URNJNQGZJZUB3SDVT&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_12&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=en_YO1UISzDr7Cs42HwdMqYYkzXHe2aTSOK6xjJjW4xz6CAxlh4EME_fcZWSuLAaSKVcmKNNteKOppXaN5nY_ez2A%3D%3D&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+            - generic [ref=e644]: "Black, Shock Proof, Pack of: 1"
+            - generic [ref=e645]:
+              - generic [ref=e647]:
+                - text: "3.8"
+                - img [ref=e648]
+              - text: (3,413)
+            - link "₹197 ₹1,199 83% off" [ref=e649] [cursor=pointer]:
+              - /url: /kwine-case-back-cover-apple-iphone-13/p/itm1b19854985bd1?pid=ACCG8URNJNQGZJZU&lid=LSTACCG8URNJNQGZJZUB3SDVT&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_12&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=en_YO1UISzDr7Cs42HwdMqYYkzXHe2aTSOK6xjJjW4xz6CAxlh4EME_fcZWSuLAaSKVcmKNNteKOppXaN5nY_ez2A%3D%3D&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - generic [ref=e650]:
+                - generic [ref=e651]: ₹197
+                - generic [ref=e652]: ₹1,199
+                - generic [ref=e653]: 83% off
+            - generic [ref=e656]: Bank Offer
+        - generic [ref=e658]:
+          - generic [ref=e660]:
+            - link "LAMIYANA Back Cover for Apple Iphone 13" [ref=e661] [cursor=pointer]:
+              - /url: /lamiyana-back-cover-apple-iphone-13/p/itm8dde08feb5c05?pid=ACCGX5GYDHTSMA4F&lid=LSTACCGX5GYDHTSMA4FDCXDAK&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_13&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=6acfb0ba-72d7-4126-bcb1-06884884ccb2.ACCGX5GYDHTSMA4F.SEARCH&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - img "LAMIYANA Back Cover for Apple Iphone 13" [ref=e665]
+              - img [ref=e668]
+            - link "LAMIYANA Back Cover for Apple Iphone 13" [ref=e670] [cursor=pointer]:
+              - /url: /lamiyana-back-cover-apple-iphone-13/p/itm8dde08feb5c05?pid=ACCGX5GYDHTSMA4F&lid=LSTACCGX5GYDHTSMA4FDCXDAK&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_13&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=6acfb0ba-72d7-4126-bcb1-06884884ccb2.ACCGX5GYDHTSMA4F.SEARCH&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+            - generic [ref=e671]: "Black, Shock Proof, Pack of: 1"
+            - generic [ref=e672]:
+              - generic [ref=e674]:
+                - text: "3.7"
+                - img [ref=e675]
+              - text: (15)
+            - link "₹180 ₹999 81% off" [ref=e676] [cursor=pointer]:
+              - /url: /lamiyana-back-cover-apple-iphone-13/p/itm8dde08feb5c05?pid=ACCGX5GYDHTSMA4F&lid=LSTACCGX5GYDHTSMA4FDCXDAK&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_13&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=6acfb0ba-72d7-4126-bcb1-06884884ccb2.ACCGX5GYDHTSMA4F.SEARCH&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - generic [ref=e677]:
+                - generic [ref=e678]: ₹180
+                - generic [ref=e679]: ₹999
+                - generic [ref=e680]: 81% off
+            - generic [ref=e683]: Only 1 left
+          - generic [ref=e685]:
+            - link "COVERLOGY Back Cover for Apple iPhone 13, iphone 14, Apple iPhone 15, FLOCK" [ref=e686] [cursor=pointer]:
+              - /url: /coverlogy-back-cover-apple-iphone-13-14-15-flock/p/itm5909ed2f584fa?pid=ACCHAUGSAVSQAEUH&lid=LSTACCHAUGSAVSQAEUHXEVELN&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_14&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=6acfb0ba-72d7-4126-bcb1-06884884ccb2.ACCHAUGSAVSQAEUH.SEARCH&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - img "COVERLOGY Back Cover for Apple iPhone 13, iphone 14, Apple iPhone 15, FLOCK" [ref=e690]
+              - img [ref=e693]
+            - link "COVERLOGY Back Cover for Apple iPhone 13, iphone 14, Ap..." [ref=e695] [cursor=pointer]:
+              - /url: /coverlogy-back-cover-apple-iphone-13-14-15-flock/p/itm5909ed2f584fa?pid=ACCHAUGSAVSQAEUH&lid=LSTACCHAUGSAVSQAEUHXEVELN&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_14&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=6acfb0ba-72d7-4126-bcb1-06884884ccb2.ACCHAUGSAVSQAEUH.SEARCH&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+            - generic [ref=e696]: "Blue, Flexible, Silicon, Pack of: 1"
+            - generic [ref=e697]:
+              - generic [ref=e699]:
+                - text: "4.5"
+                - img [ref=e700]
+              - text: (1,209)
+            - link "₹198 ₹977 79% off" [ref=e701] [cursor=pointer]:
+              - /url: /coverlogy-back-cover-apple-iphone-13-14-15-flock/p/itm5909ed2f584fa?pid=ACCHAUGSAVSQAEUH&lid=LSTACCHAUGSAVSQAEUHXEVELN&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_14&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=6acfb0ba-72d7-4126-bcb1-06884884ccb2.ACCHAUGSAVSQAEUH.SEARCH&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - generic [ref=e702]:
+                - generic [ref=e703]: ₹198
+                - generic [ref=e704]: ₹977
+                - generic [ref=e705]: 79% off
+            - generic [ref=e708]: Only few left
+          - generic [ref=e710]:
+            - link "BLACK LOVIES Back Cover for Apple iPhone 13, iphone 13" [ref=e711] [cursor=pointer]:
+              - /url: /black-lovies-back-cover-apple-iphone-13-13/p/itm05040ac787108?pid=ACCH3DRB4V9V5UK3&lid=LSTACCH3DRB4V9V5UK3ZKFFQK&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_15&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=6acfb0ba-72d7-4126-bcb1-06884884ccb2.ACCH3DRB4V9V5UK3.SEARCH&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - img "BLACK LOVIES Back Cover for Apple iPhone 13, iphone 13" [ref=e715]
+              - img [ref=e718]
+            - link "BLACK LOVIES Back Cover for Apple iPhone 13, iphone 13" [ref=e720] [cursor=pointer]:
+              - /url: /black-lovies-back-cover-apple-iphone-13-13/p/itm05040ac787108?pid=ACCH3DRB4V9V5UK3&lid=LSTACCH3DRB4V9V5UK3ZKFFQK&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_15&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=6acfb0ba-72d7-4126-bcb1-06884884ccb2.ACCH3DRB4V9V5UK3.SEARCH&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+            - generic [ref=e721]: "Grey, Shock Proof, Pack of: 1"
+            - generic [ref=e722]:
+              - generic [ref=e724]:
+                - text: "3.9"
+                - img [ref=e725]
+              - text: (62)
+            - link "₹290 ₹1,499 80% off" [ref=e726] [cursor=pointer]:
+              - /url: /black-lovies-back-cover-apple-iphone-13-13/p/itm05040ac787108?pid=ACCH3DRB4V9V5UK3&lid=LSTACCH3DRB4V9V5UK3ZKFFQK&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_15&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=6acfb0ba-72d7-4126-bcb1-06884884ccb2.ACCH3DRB4V9V5UK3.SEARCH&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - generic [ref=e727]:
+                - generic [ref=e728]: ₹290
+                - generic [ref=e729]: ₹1,499
+                - generic [ref=e730]: 80% off
+            - generic [ref=e733]: Hot Deal
+          - generic [ref=e735]:
+            - link "Celvas Back Cover for Apple iPhone 13" [ref=e736] [cursor=pointer]:
+              - /url: /celvas-back-cover-apple-iphone-13/p/itm5f270f361df60?pid=ACCGXUPDPYTCXARP&lid=LSTACCGXUPDPYTCXARPJVDYFE&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_16&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=6acfb0ba-72d7-4126-bcb1-06884884ccb2.ACCGXUPDPYTCXARP.SEARCH&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - img "Celvas Back Cover for Apple iPhone 13" [ref=e740]
+              - img [ref=e743]
+            - link "Celvas Back Cover for Apple iPhone 13" [ref=e745] [cursor=pointer]:
+              - /url: /celvas-back-cover-apple-iphone-13/p/itm5f270f361df60?pid=ACCGXUPDPYTCXARP&lid=LSTACCGXUPDPYTCXARPJVDYFE&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_16&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=6acfb0ba-72d7-4126-bcb1-06884884ccb2.ACCGXUPDPYTCXARP.SEARCH&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+            - generic [ref=e746]: "Green, Grip Case, Silicon, Pack of: 1"
+            - generic [ref=e747]:
+              - generic [ref=e749]:
+                - text: "4.2"
+                - img [ref=e750]
+              - text: (2,844)
+            - img [ref=e752]
+            - link "₹260 ₹999 73% off" [ref=e753] [cursor=pointer]:
+              - /url: /celvas-back-cover-apple-iphone-13/p/itm5f270f361df60?pid=ACCGXUPDPYTCXARP&lid=LSTACCGXUPDPYTCXARPJVDYFE&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_16&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=6acfb0ba-72d7-4126-bcb1-06884884ccb2.ACCGXUPDPYTCXARP.SEARCH&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - generic [ref=e754]:
+                - generic [ref=e755]: ₹260
+                - generic [ref=e756]: ₹999
+                - generic [ref=e757]: 73% off
+            - generic [ref=e760]: Lowest price in the year
+        - generic [ref=e762]:
+          - generic [ref=e764]:
+            - link "Spigen Tough Armor Back Cover for Apple iPhone 13" [ref=e765] [cursor=pointer]:
+              - /url: /spigen-tough-armor-back-cover-apple-iphone-13/p/itm194610a053053?pid=ACCG6UMVBACTHD65&lid=LSTACCG6UMVBACTHD65YTPVHQ&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_17&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=en_YO1UISzDr7Cs42HwdMqYYkzXHe2aTSOK6xjJjW4xz6AireM1nbAuI4uI7HM6brestnBGEqaVDOL6gVZa9MLTmWVkv0XZFiOX7bbXdlao_f8%3D&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - img "Spigen Tough Armor Back Cover for Apple iPhone 13" [ref=e769]
+              - img [ref=e772]
+            - img [ref=e775]
+            - link "Spigen Tough Armor Back Cover for Apple iPhone 13" [ref=e778] [cursor=pointer]:
+              - /url: /spigen-tough-armor-back-cover-apple-iphone-13/p/itm194610a053053?pid=ACCG6UMVBACTHD65&lid=LSTACCG6UMVBACTHD65YTPVHQ&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_17&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=en_YO1UISzDr7Cs42HwdMqYYkzXHe2aTSOK6xjJjW4xz6AireM1nbAuI4uI7HM6brestnBGEqaVDOL6gVZa9MLTmWVkv0XZFiOX7bbXdlao_f8%3D&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+            - generic [ref=e779]: "Black, Shock Proof, Pack of: 1"
+            - generic [ref=e780]:
+              - generic [ref=e782]:
+                - text: "4.5"
+                - img [ref=e783]
+              - text: (692)
+            - img [ref=e785]
+            - link "₹1,699 ₹3,599 52% off" [ref=e786] [cursor=pointer]:
+              - /url: /spigen-tough-armor-back-cover-apple-iphone-13/p/itm194610a053053?pid=ACCG6UMVBACTHD65&lid=LSTACCG6UMVBACTHD65YTPVHQ&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_17&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=en_YO1UISzDr7Cs42HwdMqYYkzXHe2aTSOK6xjJjW4xz6AireM1nbAuI4uI7HM6brestnBGEqaVDOL6gVZa9MLTmWVkv0XZFiOX7bbXdlao_f8%3D&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - generic [ref=e787]:
+                - generic [ref=e788]: ₹1,699
+                - generic [ref=e789]: ₹3,599
+                - generic [ref=e790]: 52% off
+            - generic [ref=e793]: Bank Offer
+          - generic [ref=e795]:
+            - link "Spigen Liquid Air Back Cover for Apple iPhone 13" [ref=e796] [cursor=pointer]:
+              - /url: /spigen-liquid-air-back-cover-apple-iphone-13/p/itm3d95223a9ff6f?pid=ACCG6UH2YZTY6PTU&lid=LSTACCG6UH2YZTY6PTUMMFLJ1&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_18&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=en_YO1UISzDr7Cs42HwdMqYYkzXHe2aTSOK6xjJjW4xz6BCftynS9oVPZjNIpTLIYqJAcjd5-Qoc4EwmO9qZ1-0EvcUmN_6PwCReg_VTM4VLxo%3D&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - img "Spigen Liquid Air Back Cover for Apple iPhone 13" [ref=e800]
+              - img [ref=e803]
+            - img [ref=e806]
+            - link "Spigen Liquid Air Back Cover for Apple iPhone 13" [ref=e809] [cursor=pointer]:
+              - /url: /spigen-liquid-air-back-cover-apple-iphone-13/p/itm3d95223a9ff6f?pid=ACCG6UH2YZTY6PTU&lid=LSTACCG6UH2YZTY6PTUMMFLJ1&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_18&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=en_YO1UISzDr7Cs42HwdMqYYkzXHe2aTSOK6xjJjW4xz6BCftynS9oVPZjNIpTLIYqJAcjd5-Qoc4EwmO9qZ1-0EvcUmN_6PwCReg_VTM4VLxo%3D&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+            - generic [ref=e810]: "Blue, Grip Case, Pack of: 1"
+            - generic [ref=e811]:
+              - generic [ref=e813]:
+                - text: "4.4"
+                - img [ref=e814]
+              - text: (235)
+            - img [ref=e816]
+            - link "₹899 ₹2,099 57% off" [ref=e817] [cursor=pointer]:
+              - /url: /spigen-liquid-air-back-cover-apple-iphone-13/p/itm3d95223a9ff6f?pid=ACCG6UH2YZTY6PTU&lid=LSTACCG6UH2YZTY6PTUMMFLJ1&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_18&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=en_YO1UISzDr7Cs42HwdMqYYkzXHe2aTSOK6xjJjW4xz6BCftynS9oVPZjNIpTLIYqJAcjd5-Qoc4EwmO9qZ1-0EvcUmN_6PwCReg_VTM4VLxo%3D&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - generic [ref=e818]:
+                - generic [ref=e819]: ₹899
+                - generic [ref=e820]: ₹2,099
+                - generic [ref=e821]: 57% off
+            - generic [ref=e824]: Bank Offer
+          - generic [ref=e826]:
+            - link "Celvas Back Cover for Apple iPhone 13" [ref=e827] [cursor=pointer]:
+              - /url: /celvas-back-cover-apple-iphone-13/p/itmfb0d564672ac8?pid=ACCGXUPDVDGGVG8A&lid=LSTACCGXUPDVDGGVG8A7LPR5F&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_19&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=6acfb0ba-72d7-4126-bcb1-06884884ccb2.ACCGXUPDVDGGVG8A.SEARCH&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - img "Celvas Back Cover for Apple iPhone 13" [ref=e831]
+              - img [ref=e834]
+            - link "Celvas Back Cover for Apple iPhone 13" [ref=e836] [cursor=pointer]:
+              - /url: /celvas-back-cover-apple-iphone-13/p/itmfb0d564672ac8?pid=ACCGXUPDVDGGVG8A&lid=LSTACCGXUPDVDGGVG8A7LPR5F&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_19&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=6acfb0ba-72d7-4126-bcb1-06884884ccb2.ACCGXUPDVDGGVG8A.SEARCH&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+            - generic [ref=e837]: "Black, Grip Case, Silicon, Pack of: 1"
+            - generic [ref=e838]:
+              - generic [ref=e840]:
+                - text: "4.2"
+                - img [ref=e841]
+              - text: (2,844)
+            - img [ref=e843]
+            - link "₹262 ₹999 73% off" [ref=e844] [cursor=pointer]:
+              - /url: /celvas-back-cover-apple-iphone-13/p/itmfb0d564672ac8?pid=ACCGXUPDVDGGVG8A&lid=LSTACCGXUPDVDGGVG8A7LPR5F&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_19&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=6acfb0ba-72d7-4126-bcb1-06884884ccb2.ACCGXUPDVDGGVG8A.SEARCH&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - generic [ref=e845]:
+                - generic [ref=e846]: ₹262
+                - generic [ref=e847]: ₹999
+                - generic [ref=e848]: 73% off
+            - generic [ref=e851]: Hot Deal
+          - generic [ref=e853]:
+            - link "gadvik Back Cover for Apple iPhone 13" [ref=e854] [cursor=pointer]:
+              - /url: /gadvik-back-cover-apple-iphone-13/p/itme2585625942ea?pid=ACCHFJ2QRDEMYGWY&lid=LSTACCHFJ2QRDEMYGWYDQMVKG&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_20&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=6acfb0ba-72d7-4126-bcb1-06884884ccb2.ACCHFJ2QRDEMYGWY.SEARCH&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - img "gadvik Back Cover for Apple iPhone 13" [ref=e858]
+              - img [ref=e861]
+            - link "gadvik Back Cover for Apple iPhone 13" [ref=e863] [cursor=pointer]:
+              - /url: /gadvik-back-cover-apple-iphone-13/p/itme2585625942ea?pid=ACCHFJ2QRDEMYGWY&lid=LSTACCHFJ2QRDEMYGWYDQMVKG&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_20&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=6acfb0ba-72d7-4126-bcb1-06884884ccb2.ACCHFJ2QRDEMYGWY.SEARCH&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+            - generic [ref=e864]: "Grey, Charging Case, Silicon, Pack of: 1"
+            - generic [ref=e865]:
+              - generic [ref=e867]:
+                - text: "4"
+                - img [ref=e868]
+              - text: (1,611)
+            - link "₹207 ₹1,278 83% off" [ref=e869] [cursor=pointer]:
+              - /url: /gadvik-back-cover-apple-iphone-13/p/itme2585625942ea?pid=ACCHFJ2QRDEMYGWY&lid=LSTACCHFJ2QRDEMYGWYDQMVKG&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_20&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=6acfb0ba-72d7-4126-bcb1-06884884ccb2.ACCHFJ2QRDEMYGWY.SEARCH&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - generic [ref=e870]:
+                - generic [ref=e871]: ₹207
+                - generic [ref=e872]: ₹1,278
+                - generic [ref=e873]: 83% off
+            - generic [ref=e876]: Only few left
+        - generic [ref=e878]:
+          - generic [ref=e880]:
+            - link "Flipkart SmartBuy Back Cover for Apple iPhone 13" [ref=e881] [cursor=pointer]:
+              - /url: /flipkart-smartbuy-back-cover-apple-iphone-13/p/itmd3324eedfd795?pid=ACCHGNDZZZDM8TJA&lid=LSTACCHGNDZZZDM8TJAR0HKDO&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_21&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=en_YO1UISzDr7Cs42HwdMqYYkzXHe2aTSOK6xjJjW4xz6A8FPCjYlTONjfUqdbVYZ5YAjuNyf3ncSNO9YyvLKZvZQ%3D%3D&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - img "Flipkart SmartBuy Back Cover for Apple iPhone 13" [ref=e885]
+              - img [ref=e888]
+            - img [ref=e891]
+            - link "Flipkart SmartBuy Back Cover for Apple iPhone 13" [ref=e894] [cursor=pointer]:
+              - /url: /flipkart-smartbuy-back-cover-apple-iphone-13/p/itmd3324eedfd795?pid=ACCHGNDZZZDM8TJA&lid=LSTACCHGNDZZZDM8TJAR0HKDO&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_21&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=en_YO1UISzDr7Cs42HwdMqYYkzXHe2aTSOK6xjJjW4xz6A8FPCjYlTONjfUqdbVYZ5YAjuNyf3ncSNO9YyvLKZvZQ%3D%3D&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+            - generic [ref=e895]: "Grey, Rugged Armor, Pack of: 1"
+            - generic [ref=e896]:
+              - generic [ref=e898]:
+                - text: "3.7"
+                - img [ref=e899]
+              - text: (9)
+            - img [ref=e901]
+            - link "₹428 ₹1,499 71% off" [ref=e902] [cursor=pointer]:
+              - /url: /flipkart-smartbuy-back-cover-apple-iphone-13/p/itmd3324eedfd795?pid=ACCHGNDZZZDM8TJA&lid=LSTACCHGNDZZZDM8TJAR0HKDO&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_21&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=en_YO1UISzDr7Cs42HwdMqYYkzXHe2aTSOK6xjJjW4xz6A8FPCjYlTONjfUqdbVYZ5YAjuNyf3ncSNO9YyvLKZvZQ%3D%3D&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - generic [ref=e903]:
+                - generic [ref=e904]: ₹428
+                - generic [ref=e905]: ₹1,499
+                - generic [ref=e906]: 71% off
+            - generic [ref=e909]: Lowest price since launch
+          - generic [ref=e911]:
+            - link "Caseology by Spigen Skyfall Back Cover for Apple iPhone 13" [ref=e912] [cursor=pointer]:
+              - /url: /caseology-spigen-skyfall-back-cover-apple-iphone-13/p/itm29f06af6229fc?pid=ACCGBFRADWJUFZXT&lid=LSTACCGBFRADWJUFZXTLT31J7&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_22&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=en_YO1UISzDr7Cs42HwdMqYYkzXHe2aTSOK6xjJjW4xz6DXxeDLzDfQ4kjilfCHIIXrBHjOq-EVHrOW43zXtMz-bE4IsYyWu-Pj9cxFjFAoaLk%3D&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - img "Caseology by Spigen Skyfall Back Cover for Apple iPhone 13" [ref=e916]
+              - img [ref=e919]
+            - img [ref=e922]
+            - link "Caseology by Spigen Skyfall Back Cover for Apple iPhone..." [ref=e925] [cursor=pointer]:
+              - /url: /caseology-spigen-skyfall-back-cover-apple-iphone-13/p/itm29f06af6229fc?pid=ACCGBFRADWJUFZXT&lid=LSTACCGBFRADWJUFZXTLT31J7&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_22&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=en_YO1UISzDr7Cs42HwdMqYYkzXHe2aTSOK6xjJjW4xz6DXxeDLzDfQ4kjilfCHIIXrBHjOq-EVHrOW43zXtMz-bE4IsYyWu-Pj9cxFjFAoaLk%3D&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+            - generic [ref=e926]: "Blue, Shock Proof, Pack of: 1"
+            - generic [ref=e927]:
+              - generic [ref=e929]:
+                - text: "3.7"
+                - img [ref=e930]
+              - text: (7)
+            - img [ref=e932]
+            - link "₹1,424 ₹2,599 45% off" [ref=e933] [cursor=pointer]:
+              - /url: /caseology-spigen-skyfall-back-cover-apple-iphone-13/p/itm29f06af6229fc?pid=ACCGBFRADWJUFZXT&lid=LSTACCGBFRADWJUFZXTLT31J7&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_22&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=en_YO1UISzDr7Cs42HwdMqYYkzXHe2aTSOK6xjJjW4xz6DXxeDLzDfQ4kjilfCHIIXrBHjOq-EVHrOW43zXtMz-bE4IsYyWu-Pj9cxFjFAoaLk%3D&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - generic [ref=e934]:
+                - generic [ref=e935]: ₹1,424
+                - generic [ref=e936]: ₹2,599
+                - generic [ref=e937]: 45% off
+            - generic [ref=e940]: Bank Offer
+          - generic [ref=e942]:
+            - link "LAMIYANA Back Cover for Apple iPhone 13" [ref=e943] [cursor=pointer]:
+              - /url: /lamiyana-back-cover-apple-iphone-13/p/itmbc03094b5f0d6?pid=ACCH4PHAHQUJYXDP&lid=LSTACCH4PHAHQUJYXDPVZ8H8J&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_23&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=6acfb0ba-72d7-4126-bcb1-06884884ccb2.ACCH4PHAHQUJYXDP.SEARCH&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - img "LAMIYANA Back Cover for Apple iPhone 13" [ref=e947]
+              - img [ref=e950]
+            - link "LAMIYANA Back Cover for Apple iPhone 13" [ref=e952] [cursor=pointer]:
+              - /url: /lamiyana-back-cover-apple-iphone-13/p/itmbc03094b5f0d6?pid=ACCH4PHAHQUJYXDP&lid=LSTACCH4PHAHQUJYXDPVZ8H8J&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_23&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=6acfb0ba-72d7-4126-bcb1-06884884ccb2.ACCH4PHAHQUJYXDP.SEARCH&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+            - generic [ref=e953]: "Black, Magsafe, Pack of: 1"
+            - generic [ref=e954]:
+              - generic [ref=e956]:
+                - text: "4.1"
+                - img [ref=e957]
+              - text: (675)
+            - link "₹142 ₹996 85% off" [ref=e958] [cursor=pointer]:
+              - /url: /lamiyana-back-cover-apple-iphone-13/p/itmbc03094b5f0d6?pid=ACCH4PHAHQUJYXDP&lid=LSTACCH4PHAHQUJYXDPVZ8H8J&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_23&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=6acfb0ba-72d7-4126-bcb1-06884884ccb2.ACCH4PHAHQUJYXDP.SEARCH&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - generic [ref=e959]:
+                - generic [ref=e960]: ₹142
+                - generic [ref=e961]: ₹996
+                - generic [ref=e962]: 85% off
+            - generic [ref=e965]: Only few left
+          - generic [ref=e967]:
+            - link "APH PRIME Back Cover for Apple iPhone 13" [ref=e968] [cursor=pointer]:
+              - /url: /aph-prime-back-cover-apple-iphone-13/p/itm0dcd072782b64?pid=ACCH8XSFYUFZZPMH&lid=LSTACCH8XSFYUFZZPMHMNCAYO&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_24&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=6acfb0ba-72d7-4126-bcb1-06884884ccb2.ACCH8XSFYUFZZPMH.SEARCH&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - img "APH PRIME Back Cover for Apple iPhone 13" [ref=e972]
+              - img [ref=e975]
+            - link "APH PRIME Back Cover for Apple iPhone 13" [ref=e977] [cursor=pointer]:
+              - /url: /aph-prime-back-cover-apple-iphone-13/p/itm0dcd072782b64?pid=ACCH8XSFYUFZZPMH&lid=LSTACCH8XSFYUFZZPMHMNCAYO&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_24&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=6acfb0ba-72d7-4126-bcb1-06884884ccb2.ACCH8XSFYUFZZPMH.SEARCH&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+            - generic [ref=e978]: "Pink, Dual Protection, Pack of: 1"
+            - generic [ref=e979]:
+              - generic [ref=e981]:
+                - text: "4.2"
+                - img [ref=e982]
+              - text: (636)
+            - img [ref=e984]
+            - link "₹335 ₹1,099 69% off" [ref=e985] [cursor=pointer]:
+              - /url: /aph-prime-back-cover-apple-iphone-13/p/itm0dcd072782b64?pid=ACCH8XSFYUFZZPMH&lid=LSTACCH8XSFYUFZZPMHMNCAYO&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_24&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=6acfb0ba-72d7-4126-bcb1-06884884ccb2.ACCH8XSFYUFZZPMH.SEARCH&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - generic [ref=e986]:
+                - generic [ref=e987]: ₹335
+                - generic [ref=e988]: ₹1,099
+                - generic [ref=e989]: 69% off
+            - generic [ref=e992]: Lowest price since launch
+        - generic [ref=e994]:
+          - generic [ref=e996]:
+            - link "APH PRIME Back Cover for Apple iPhone 13" [ref=e997] [cursor=pointer]:
+              - /url: /aph-prime-back-cover-apple-iphone-13/p/itm498c84f11eab8?pid=ACCH7VWZGHSHCVGD&lid=LSTACCH7VWZGHSHCVGDIXR4CD&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_25&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=6acfb0ba-72d7-4126-bcb1-06884884ccb2.ACCH7VWZGHSHCVGD.SEARCH&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - img "APH PRIME Back Cover for Apple iPhone 13" [ref=e1001]
+              - img [ref=e1004]
+            - link "APH PRIME Back Cover for Apple iPhone 13" [ref=e1006] [cursor=pointer]:
+              - /url: /aph-prime-back-cover-apple-iphone-13/p/itm498c84f11eab8?pid=ACCH7VWZGHSHCVGD&lid=LSTACCH7VWZGHSHCVGDIXR4CD&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_25&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=6acfb0ba-72d7-4126-bcb1-06884884ccb2.ACCH7VWZGHSHCVGD.SEARCH&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+            - generic [ref=e1007]: "Black, Dual Protection, Pack of: 1"
+            - generic [ref=e1008]:
+              - generic [ref=e1010]:
+                - text: "4.2"
+                - img [ref=e1011]
+              - text: (636)
+            - img [ref=e1013]
+            - link "₹348 ₹999 65% off" [ref=e1014] [cursor=pointer]:
+              - /url: /aph-prime-back-cover-apple-iphone-13/p/itm498c84f11eab8?pid=ACCH7VWZGHSHCVGD&lid=LSTACCH7VWZGHSHCVGDIXR4CD&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_25&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=6acfb0ba-72d7-4126-bcb1-06884884ccb2.ACCH7VWZGHSHCVGD.SEARCH&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - generic [ref=e1015]:
+                - generic [ref=e1016]: ₹348
+                - generic [ref=e1017]: ₹999
+                - generic [ref=e1018]: 65% off
+            - generic [ref=e1021]: Lowest price since launch
+          - generic [ref=e1023]:
+            - link "Plugtech Back Cover for Apple iPhone 13" [ref=e1024] [cursor=pointer]:
+              - /url: /plugtech-back-cover-apple-iphone-13/p/itmdde68c26005aa?pid=ACCHFE2RWMBRJ5FZ&lid=LSTACCHFE2RWMBRJ5FZKM9UCJ&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_26&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=6acfb0ba-72d7-4126-bcb1-06884884ccb2.ACCHFE2RWMBRJ5FZ.SEARCH&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - img "Plugtech Back Cover for Apple iPhone 13" [ref=e1028]
+              - img [ref=e1031]
+            - link "Plugtech Back Cover for Apple iPhone 13" [ref=e1033] [cursor=pointer]:
+              - /url: /plugtech-back-cover-apple-iphone-13/p/itmdde68c26005aa?pid=ACCHFE2RWMBRJ5FZ&lid=LSTACCHFE2RWMBRJ5FZKM9UCJ&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_26&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=6acfb0ba-72d7-4126-bcb1-06884884ccb2.ACCHFE2RWMBRJ5FZ.SEARCH&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+            - generic [ref=e1034]: "Blue, Magnetic Case, Silicon, Pack of: 1"
+            - generic [ref=e1035]:
+              - generic [ref=e1037]:
+                - text: "4.1"
+                - img [ref=e1038]
+              - text: (21)
+            - img [ref=e1040]
+            - link "₹199 ₹999 80% off" [ref=e1041] [cursor=pointer]:
+              - /url: /plugtech-back-cover-apple-iphone-13/p/itmdde68c26005aa?pid=ACCHFE2RWMBRJ5FZ&lid=LSTACCHFE2RWMBRJ5FZKM9UCJ&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_26&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=6acfb0ba-72d7-4126-bcb1-06884884ccb2.ACCHFE2RWMBRJ5FZ.SEARCH&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - generic [ref=e1042]:
+                - generic [ref=e1043]: ₹199
+                - generic [ref=e1044]: ₹999
+                - generic [ref=e1045]: 80% off
+            - generic [ref=e1048]: Lowest price since launch
+          - generic [ref=e1050]:
+            - link "Sajni Creations Back Cover for Apple iphone 13" [ref=e1051] [cursor=pointer]:
+              - /url: /sajni-creations-back-cover-apple-iphone-13/p/itm2fad548289c55?pid=ACCGPYZBNFZ8Z2P4&lid=LSTACCGPYZBNFZ8Z2P4Z6DPB4&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_27&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=en_YO1UISzDr7Cs42HwdMqYYkzXHe2aTSOK6xjJjW4xz6AXgNTDwfpTUGzUm_an8YRsMwUBFACvCDvLhKsFtiOS5g%3D%3D&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - img "Sajni Creations Back Cover for Apple iphone 13" [ref=e1055]
+              - img [ref=e1058]
+            - img [ref=e1061]
+            - link "Sajni Creations Back Cover for Apple iphone 13" [ref=e1064] [cursor=pointer]:
+              - /url: /sajni-creations-back-cover-apple-iphone-13/p/itm2fad548289c55?pid=ACCGPYZBNFZ8Z2P4&lid=LSTACCGPYZBNFZ8Z2P4Z6DPB4&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_27&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=en_YO1UISzDr7Cs42HwdMqYYkzXHe2aTSOK6xjJjW4xz6AXgNTDwfpTUGzUm_an8YRsMwUBFACvCDvLhKsFtiOS5g%3D%3D&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+            - generic [ref=e1065]: "Blue, Pack of: 1"
+            - generic [ref=e1066]:
+              - generic [ref=e1068]:
+                - text: "4.2"
+                - img [ref=e1069]
+              - text: (293)
+            - img [ref=e1071]
+            - link "₹264 ₹999 73% off" [ref=e1072] [cursor=pointer]:
+              - /url: /sajni-creations-back-cover-apple-iphone-13/p/itm2fad548289c55?pid=ACCGPYZBNFZ8Z2P4&lid=LSTACCGPYZBNFZ8Z2P4Z6DPB4&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_27&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=en_YO1UISzDr7Cs42HwdMqYYkzXHe2aTSOK6xjJjW4xz6AXgNTDwfpTUGzUm_an8YRsMwUBFACvCDvLhKsFtiOS5g%3D%3D&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - generic [ref=e1073]:
+                - generic [ref=e1074]: ₹264
+                - generic [ref=e1075]: ₹999
+                - generic [ref=e1076]: 73% off
+            - generic [ref=e1079]: Hot Deal
+          - generic [ref=e1081]:
+            - link "KARWAN Back Cover for Apple iPhone 13" [ref=e1082] [cursor=pointer]:
+              - /url: /karwan-back-cover-apple-iphone-13/p/itm3e364e084a3a7?pid=ACCHDVDP8HGQUY6F&lid=LSTACCHDVDP8HGQUY6F4EN7GL&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_28&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=en_YO1UISzDr7Cs42HwdMqYYkzXHe2aTSOK6xjJjW4xz6BC52_HY_grB1b7aZ4ZSHXmPuvRLnqPD5cQXUALAl3I2g%3D%3D&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - img "KARWAN Back Cover for Apple iPhone 13" [ref=e1086]
+              - img [ref=e1089]
+            - img [ref=e1092]
+            - link "KARWAN Back Cover for Apple iPhone 13" [ref=e1095] [cursor=pointer]:
+              - /url: /karwan-back-cover-apple-iphone-13/p/itm3e364e084a3a7?pid=ACCHDVDP8HGQUY6F&lid=LSTACCHDVDP8HGQUY6F4EN7GL&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_28&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=en_YO1UISzDr7Cs42HwdMqYYkzXHe2aTSOK6xjJjW4xz6BC52_HY_grB1b7aZ4ZSHXmPuvRLnqPD5cQXUALAl3I2g%3D%3D&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+            - generic [ref=e1096]: "Black, Shock Proof, Pack of: 1"
+            - generic [ref=e1097]:
+              - generic [ref=e1099]:
+                - text: "3.7"
+                - img [ref=e1100]
+              - text: (46)
+            - link "₹433 ₹999 56% off" [ref=e1101] [cursor=pointer]:
+              - /url: /karwan-back-cover-apple-iphone-13/p/itm3e364e084a3a7?pid=ACCHDVDP8HGQUY6F&lid=LSTACCHDVDP8HGQUY6F4EN7GL&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_28&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=en_YO1UISzDr7Cs42HwdMqYYkzXHe2aTSOK6xjJjW4xz6BC52_HY_grB1b7aZ4ZSHXmPuvRLnqPD5cQXUALAl3I2g%3D%3D&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - generic [ref=e1102]:
+                - generic [ref=e1103]: ₹433
+                - generic [ref=e1104]: ₹999
+                - generic [ref=e1105]: 56% off
+            - generic [ref=e1108]: Lowest price since launch
+        - generic [ref=e1110]:
+          - generic [ref=e1112]:
+            - link "S-Gripline Back Cover for Apple iphone 13, Premium Soft Bumper Anti Scratch" [ref=e1113] [cursor=pointer]:
+              - /url: /s-gripline-back-cover-apple-iphone-13-premium-soft-bumper-anti-scratch/p/itmf95ac1309693a?pid=ACCG7CFEN7AZMSAV&lid=LSTACCG7CFEN7AZMSAVYQX9JR&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_29&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=6acfb0ba-72d7-4126-bcb1-06884884ccb2.ACCG7CFEN7AZMSAV.SEARCH&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - img "S-Gripline Back Cover for Apple iphone 13, Premium Soft Bumper Anti Scratch" [ref=e1117]
+              - img [ref=e1120]
+            - link "S-Gripline Back Cover for Apple iphone 13, Premium Soft..." [ref=e1122] [cursor=pointer]:
+              - /url: /s-gripline-back-cover-apple-iphone-13-premium-soft-bumper-anti-scratch/p/itmf95ac1309693a?pid=ACCG7CFEN7AZMSAV&lid=LSTACCG7CFEN7AZMSAVYQX9JR&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_29&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=6acfb0ba-72d7-4126-bcb1-06884884ccb2.ACCG7CFEN7AZMSAV.SEARCH&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+            - generic [ref=e1123]: "Transparent, Camera Bump Protector, Pack of: 1"
+            - generic [ref=e1124]:
+              - generic [ref=e1126]:
+                - text: "3.8"
+                - img [ref=e1127]
+              - text: (59)
+            - img [ref=e1129]
+            - link "₹169 ₹999 83% off" [ref=e1130] [cursor=pointer]:
+              - /url: /s-gripline-back-cover-apple-iphone-13-premium-soft-bumper-anti-scratch/p/itmf95ac1309693a?pid=ACCG7CFEN7AZMSAV&lid=LSTACCG7CFEN7AZMSAVYQX9JR&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_29&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=6acfb0ba-72d7-4126-bcb1-06884884ccb2.ACCG7CFEN7AZMSAV.SEARCH&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - generic [ref=e1131]:
+                - generic [ref=e1132]: ₹169
+                - generic [ref=e1133]: ₹999
+                - generic [ref=e1134]: 83% off
+            - generic [ref=e1137]: Lowest price in the year
+          - generic [ref=e1139]:
+            - link "S-Gripline Back Cover for Apple iphone 13, Premium Soft Bumper Anti Scratch" [ref=e1140] [cursor=pointer]:
+              - /url: /s-gripline-back-cover-apple-iphone-13-premium-soft-bumper-anti-scratch/p/itm377fd4c51f31b?pid=ACCGRYJHGRHYQBDE&lid=LSTACCGRYJHGRHYQBDEKD4RJU&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_30&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=6acfb0ba-72d7-4126-bcb1-06884884ccb2.ACCGRYJHGRHYQBDE.SEARCH&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - img "S-Gripline Back Cover for Apple iphone 13, Premium Soft Bumper Anti Scratch" [ref=e1144]
+              - img [ref=e1147]
+            - link "S-Gripline Back Cover for Apple iphone 13, Premium Soft..." [ref=e1149] [cursor=pointer]:
+              - /url: /s-gripline-back-cover-apple-iphone-13-premium-soft-bumper-anti-scratch/p/itm377fd4c51f31b?pid=ACCGRYJHGRHYQBDE&lid=LSTACCGRYJHGRHYQBDEKD4RJU&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_30&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=6acfb0ba-72d7-4126-bcb1-06884884ccb2.ACCGRYJHGRHYQBDE.SEARCH&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+            - generic [ref=e1150]: "Black, Pack of: 1"
+            - generic [ref=e1151]:
+              - generic [ref=e1153]:
+                - text: "3.8"
+                - img [ref=e1154]
+              - text: (59)
+            - link "₹179 ₹999 82% off" [ref=e1155] [cursor=pointer]:
+              - /url: /s-gripline-back-cover-apple-iphone-13-premium-soft-bumper-anti-scratch/p/itm377fd4c51f31b?pid=ACCGRYJHGRHYQBDE&lid=LSTACCGRYJHGRHYQBDEKD4RJU&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_30&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=6acfb0ba-72d7-4126-bcb1-06884884ccb2.ACCGRYJHGRHYQBDE.SEARCH&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - generic [ref=e1156]:
+                - generic [ref=e1157]: ₹179
+                - generic [ref=e1158]: ₹999
+                - generic [ref=e1159]: 82% off
+            - generic [ref=e1162]: Super Deals
+          - generic [ref=e1164]:
+            - link "MobiLooks Back Cover for Apple iPhone 13, Original Silicone Logo Cut Shockproof Full Body Protection Case" [ref=e1165] [cursor=pointer]:
+              - /url: /mobilooks-back-cover-apple-iphone-13-original-silicone-logo-cut-shockproof-full-body-protection-case/p/itm439002c256500?pid=ACCGQUMQNVYY8H8P&lid=LSTACCGQUMQNVYY8H8PMEXZCV&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_31&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=en_YO1UISzDr7Cs42HwdMqYYkzXHe2aTSOK6xjJjW4xz6DQZWHm-VW9tCY7gN5SIRiGQL_Q5fdDYfjpY2_6K2aSVg%3D%3D&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - img "MobiLooks Back Cover for Apple iPhone 13, Original Silicone Logo Cut Shockproof Full Body Protection Case" [ref=e1169]
+              - img [ref=e1172]
+            - img [ref=e1175]
+            - link "MobiLooks Back Cover for Apple iPhone 13, Original Sili..." [ref=e1178] [cursor=pointer]:
+              - /url: /mobilooks-back-cover-apple-iphone-13-original-silicone-logo-cut-shockproof-full-body-protection-case/p/itm439002c256500?pid=ACCGQUMQNVYY8H8P&lid=LSTACCGQUMQNVYY8H8PMEXZCV&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_31&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=en_YO1UISzDr7Cs42HwdMqYYkzXHe2aTSOK6xjJjW4xz6DQZWHm-VW9tCY7gN5SIRiGQL_Q5fdDYfjpY2_6K2aSVg%3D%3D&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+            - generic [ref=e1179]: "Purple, Camera Bump Protector, Silicon, Pack of: 1"
+            - generic [ref=e1180]:
+              - generic [ref=e1182]:
+                - text: "4.1"
+                - img [ref=e1183]
+              - text: (546)
+            - link "₹236 ₹999 76% off" [ref=e1184] [cursor=pointer]:
+              - /url: /mobilooks-back-cover-apple-iphone-13-original-silicone-logo-cut-shockproof-full-body-protection-case/p/itm439002c256500?pid=ACCGQUMQNVYY8H8P&lid=LSTACCGQUMQNVYY8H8PMEXZCV&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_31&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=en_YO1UISzDr7Cs42HwdMqYYkzXHe2aTSOK6xjJjW4xz6DQZWHm-VW9tCY7gN5SIRiGQL_Q5fdDYfjpY2_6K2aSVg%3D%3D&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - generic [ref=e1185]:
+                - generic [ref=e1186]: ₹236
+                - generic [ref=e1187]: ₹999
+                - generic [ref=e1188]: 76% off
+            - generic [ref=e1191]: Lowest price in the year
+          - generic [ref=e1193]:
+            - link "HUPSHY Back Cover for APPLE iPhone 13" [ref=e1194] [cursor=pointer]:
+              - /url: /hupshy-back-cover-apple-iphone-13/p/itm35ade6c0dc01d?pid=ACCGPC42HAFUNBY6&lid=LSTACCGPC42HAFUNBY6775P90&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_32&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=en_YO1UISzDr7Cs42HwdMqYYkzXHe2aTSOK6xjJjW4xz6BMxcRHh6MukQSSVqfESwDIqICzppj18z6G1zJUKMB6Ew%3D%3D&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - img "HUPSHY Back Cover for APPLE iPhone 13" [ref=e1198]
+              - img [ref=e1201]
+            - img [ref=e1204]
+            - link "HUPSHY Back Cover for APPLE iPhone 13" [ref=e1207] [cursor=pointer]:
+              - /url: /hupshy-back-cover-apple-iphone-13/p/itm35ade6c0dc01d?pid=ACCGPC42HAFUNBY6&lid=LSTACCGPC42HAFUNBY6775P90&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_32&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=en_YO1UISzDr7Cs42HwdMqYYkzXHe2aTSOK6xjJjW4xz6BMxcRHh6MukQSSVqfESwDIqICzppj18z6G1zJUKMB6Ew%3D%3D&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+            - generic [ref=e1208]: "Black, Magsafe, Pack of: 1"
+            - generic [ref=e1209]:
+              - generic [ref=e1211]:
+                - text: "3.9"
+                - img [ref=e1212]
+              - text: (129)
+            - link "₹250 ₹1,999 87% off" [ref=e1213] [cursor=pointer]:
+              - /url: /hupshy-back-cover-apple-iphone-13/p/itm35ade6c0dc01d?pid=ACCGPC42HAFUNBY6&lid=LSTACCGPC42HAFUNBY6775P90&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_32&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=en_YO1UISzDr7Cs42HwdMqYYkzXHe2aTSOK6xjJjW4xz6BMxcRHh6MukQSSVqfESwDIqICzppj18z6G1zJUKMB6Ew%3D%3D&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - generic [ref=e1214]:
+                - generic [ref=e1215]: ₹250
+                - generic [ref=e1216]: ₹1,999
+                - generic [ref=e1217]: 87% off
+            - generic [ref=e1220]: Hot Deal
+        - generic [ref=e1222]:
+          - generic [ref=e1224]:
+            - link "APH PRIME Back Cover for APPLE IPHONE 13" [ref=e1225] [cursor=pointer]:
+              - /url: /aph-prime-back-cover-apple-iphone-13/p/itmcbc45ffb5161c?pid=ACCH3PRPMB7XMTYK&lid=LSTACCH3PRPMB7XMTYKGR6KKP&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_33&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=6acfb0ba-72d7-4126-bcb1-06884884ccb2.ACCH3PRPMB7XMTYK.SEARCH&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - img "APH PRIME Back Cover for APPLE IPHONE 13" [ref=e1229]
+              - img [ref=e1232]
+            - link "APH PRIME Back Cover for APPLE IPHONE 13" [ref=e1234] [cursor=pointer]:
+              - /url: /aph-prime-back-cover-apple-iphone-13/p/itmcbc45ffb5161c?pid=ACCH3PRPMB7XMTYK&lid=LSTACCH3PRPMB7XMTYKGR6KKP&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_33&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=6acfb0ba-72d7-4126-bcb1-06884884ccb2.ACCH3PRPMB7XMTYK.SEARCH&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+            - generic [ref=e1235]: "Gold, Dual Protection, Silicon, Pack of: 1"
+            - generic [ref=e1236]:
+              - generic [ref=e1238]:
+                - text: "4.4"
+                - img [ref=e1239]
+              - text: (173)
+            - img [ref=e1241]
+            - link "₹353 ₹999 64% off" [ref=e1242] [cursor=pointer]:
+              - /url: /aph-prime-back-cover-apple-iphone-13/p/itmcbc45ffb5161c?pid=ACCH3PRPMB7XMTYK&lid=LSTACCH3PRPMB7XMTYKGR6KKP&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_33&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=6acfb0ba-72d7-4126-bcb1-06884884ccb2.ACCH3PRPMB7XMTYK.SEARCH&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - generic [ref=e1243]:
+                - generic [ref=e1244]: ₹353
+                - generic [ref=e1245]: ₹999
+                - generic [ref=e1246]: 64% off
+            - generic [ref=e1249]: Lowest price in the year
+          - generic [ref=e1251]:
+            - link "APH PRIME Back Cover for APPLE IPHONE 13" [ref=e1252] [cursor=pointer]:
+              - /url: /aph-prime-back-cover-apple-iphone-13/p/itmc98de78ba2043?pid=ACCH3PRZKNWFWWWH&lid=LSTACCH3PRZKNWFWWWHM1YUFI&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_34&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=6acfb0ba-72d7-4126-bcb1-06884884ccb2.ACCH3PRZKNWFWWWH.SEARCH&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - img "APH PRIME Back Cover for APPLE IPHONE 13" [ref=e1256]
+              - img [ref=e1259]
+            - link "APH PRIME Back Cover for APPLE IPHONE 13" [ref=e1261] [cursor=pointer]:
+              - /url: /aph-prime-back-cover-apple-iphone-13/p/itmc98de78ba2043?pid=ACCH3PRZKNWFWWWH&lid=LSTACCH3PRZKNWFWWWHM1YUFI&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_34&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=6acfb0ba-72d7-4126-bcb1-06884884ccb2.ACCH3PRZKNWFWWWH.SEARCH&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+            - generic [ref=e1262]: "Grey, Dual Protection, Silicon, Pack of: 1"
+            - generic [ref=e1263]:
+              - generic [ref=e1265]:
+                - text: "4.4"
+                - img [ref=e1266]
+              - text: (173)
+            - img [ref=e1268]
+            - link "₹363 ₹999 63% off" [ref=e1269] [cursor=pointer]:
+              - /url: /aph-prime-back-cover-apple-iphone-13/p/itmc98de78ba2043?pid=ACCH3PRZKNWFWWWH&lid=LSTACCH3PRZKNWFWWWHM1YUFI&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_34&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=6acfb0ba-72d7-4126-bcb1-06884884ccb2.ACCH3PRZKNWFWWWH.SEARCH&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - generic [ref=e1270]:
+                - generic [ref=e1271]: ₹363
+                - generic [ref=e1272]: ₹999
+                - generic [ref=e1273]: 63% off
+            - generic [ref=e1276]: Lowest price in the year
+          - generic [ref=e1278]:
+            - link "Micvir Back Cover for Apple iPhone 13" [ref=e1279] [cursor=pointer]:
+              - /url: /micvir-back-cover-apple-iphone-13/p/itm9594847bd3bc8?pid=ACCH64HBJZEK7QZC&lid=LSTACCH64HBJZEK7QZCSK4SYJ&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_35&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=6acfb0ba-72d7-4126-bcb1-06884884ccb2.ACCH64HBJZEK7QZC.SEARCH&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - img "Micvir Back Cover for Apple iPhone 13" [ref=e1283]
+              - img [ref=e1286]
+            - link "Micvir Back Cover for Apple iPhone 13" [ref=e1288] [cursor=pointer]:
+              - /url: /micvir-back-cover-apple-iphone-13/p/itm9594847bd3bc8?pid=ACCH64HBJZEK7QZC&lid=LSTACCH64HBJZEK7QZCSK4SYJ&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_35&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=6acfb0ba-72d7-4126-bcb1-06884884ccb2.ACCH64HBJZEK7QZC.SEARCH&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+            - generic [ref=e1289]: "Pink, Silicon, Pack of: 1"
+            - generic [ref=e1290]:
+              - generic [ref=e1292]:
+                - text: "4.4"
+                - img [ref=e1293]
+              - text: (911)
+            - img [ref=e1295]
+            - link "₹283 ₹999 71% off" [ref=e1296] [cursor=pointer]:
+              - /url: /micvir-back-cover-apple-iphone-13/p/itm9594847bd3bc8?pid=ACCH64HBJZEK7QZC&lid=LSTACCH64HBJZEK7QZCSK4SYJ&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_35&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=6acfb0ba-72d7-4126-bcb1-06884884ccb2.ACCH64HBJZEK7QZC.SEARCH&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - generic [ref=e1297]:
+                - generic [ref=e1298]: ₹283
+                - generic [ref=e1299]: ₹999
+                - generic [ref=e1300]: 71% off
+            - generic [ref=e1303]: Lowest price in the year
+          - generic [ref=e1305]:
+            - link "FlareHUB Back Cover for Apple iPhone 13, APPLE iPhone 13" [ref=e1306] [cursor=pointer]:
+              - /url: /flarehub-back-cover-apple-iphone-13-13/p/itm041f934b446e7?pid=ACCGBRHQHRGCUSWY&lid=LSTACCGBRHQHRGCUSWYJZX9BO&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_36&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=6acfb0ba-72d7-4126-bcb1-06884884ccb2.ACCGBRHQHRGCUSWY.SEARCH&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - img "FlareHUB Back Cover for Apple iPhone 13, APPLE iPhone 13" [ref=e1310]
+              - img [ref=e1313]
+            - link "FlareHUB Back Cover for Apple iPhone 13, APPLE iPhone 1..." [ref=e1315] [cursor=pointer]:
+              - /url: /flarehub-back-cover-apple-iphone-13-13/p/itm041f934b446e7?pid=ACCGBRHQHRGCUSWY&lid=LSTACCGBRHQHRGCUSWYJZX9BO&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_36&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=6acfb0ba-72d7-4126-bcb1-06884884ccb2.ACCGBRHQHRGCUSWY.SEARCH&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+            - generic [ref=e1316]: "Black, Matte Finish, Silicon, Pack of: 1"
+            - generic [ref=e1317]:
+              - generic [ref=e1319]:
+                - text: "4.1"
+                - img [ref=e1320]
+              - text: (1,903)
+            - img [ref=e1322]
+            - link "₹196 ₹699 71% off" [ref=e1323] [cursor=pointer]:
+              - /url: /flarehub-back-cover-apple-iphone-13-13/p/itm041f934b446e7?pid=ACCGBRHQHRGCUSWY&lid=LSTACCGBRHQHRGCUSWYJZX9BO&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_36&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=6acfb0ba-72d7-4126-bcb1-06884884ccb2.ACCGBRHQHRGCUSWY.SEARCH&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - generic [ref=e1324]:
+                - generic [ref=e1325]: ₹196
+                - generic [ref=e1326]: ₹699
+                - generic [ref=e1327]: 71% off
+            - generic [ref=e1330]: Bank Offer
+        - generic [ref=e1332]:
+          - generic [ref=e1334]:
+            - link "CYRILL Classic Charm Back Cover for Apple iPhone 13" [ref=e1335] [cursor=pointer]:
+              - /url: /cyrill-classic-charm-back-cover-apple-iphone-13/p/itm5d335d5e42b27?pid=ACCGK37UQFKKEG8J&lid=LSTACCGK37UQFKKEG8JEUZQHJ&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_37&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=en_YO1UISzDr7Cs42HwdMqYYkzXHe2aTSOK6xjJjW4xz6CGQB4AzoH02HIgsGy6Vgi9FCrzsUHq7lOqEYgwSEf9iEhz9c-MSIoFe8xMxkfU6dM%3D&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - img "CYRILL Classic Charm Back Cover for Apple iPhone 13" [ref=e1339]
+              - img [ref=e1342]
+            - img [ref=e1345]
+            - link "CYRILL Classic Charm Back Cover for Apple iPhone 13" [ref=e1348] [cursor=pointer]:
+              - /url: /cyrill-classic-charm-back-cover-apple-iphone-13/p/itm5d335d5e42b27?pid=ACCGK37UQFKKEG8J&lid=LSTACCGK37UQFKKEG8JEUZQHJ&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_37&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=en_YO1UISzDr7Cs42HwdMqYYkzXHe2aTSOK6xjJjW4xz6CGQB4AzoH02HIgsGy6Vgi9FCrzsUHq7lOqEYgwSEf9iEhz9c-MSIoFe8xMxkfU6dM%3D&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+            - generic [ref=e1349]: "Black, Shock Proof, Pack of: 1"
+            - generic [ref=e1350]:
+              - generic [ref=e1352]:
+                - text: "5"
+                - img [ref=e1353]
+              - text: (2)
+            - img [ref=e1355]
+            - link "₹1,049 ₹2,199 52% off" [ref=e1356] [cursor=pointer]:
+              - /url: /cyrill-classic-charm-back-cover-apple-iphone-13/p/itm5d335d5e42b27?pid=ACCGK37UQFKKEG8J&lid=LSTACCGK37UQFKKEG8JEUZQHJ&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_37&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=en_YO1UISzDr7Cs42HwdMqYYkzXHe2aTSOK6xjJjW4xz6CGQB4AzoH02HIgsGy6Vgi9FCrzsUHq7lOqEYgwSEf9iEhz9c-MSIoFe8xMxkfU6dM%3D&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - generic [ref=e1357]:
+                - generic [ref=e1358]: ₹1,049
+                - generic [ref=e1359]: ₹2,199
+                - generic [ref=e1360]: 52% off
+            - generic [ref=e1363]: Super Deals
+          - generic [ref=e1365]:
+            - link "Infinite Case Back Cover for Apple iPhone 13" [ref=e1366] [cursor=pointer]:
+              - /url: /infinite-case-back-cover-apple-iphone-13/p/itmb45518f7f8ef2?pid=ACCGUBJGJDYHHUJA&lid=LSTACCGUBJGJDYHHUJA7ULAPW&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_38&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=en_YO1UISzDr7Cs42HwdMqYYkzXHe2aTSOK6xjJjW4xz6DuW2FfLQqu73hFZMhzTh2qWTvCqly6epUO-bAeyMgtwg%3D%3D&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - img "Infinite Case Back Cover for Apple iPhone 13" [ref=e1370]
+              - img [ref=e1373]
+            - img [ref=e1376]
+            - link "Infinite Case Back Cover for Apple iPhone 13" [ref=e1379] [cursor=pointer]:
+              - /url: /infinite-case-back-cover-apple-iphone-13/p/itmb45518f7f8ef2?pid=ACCGUBJGJDYHHUJA&lid=LSTACCGUBJGJDYHHUJA7ULAPW&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_38&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=en_YO1UISzDr7Cs42HwdMqYYkzXHe2aTSOK6xjJjW4xz6DuW2FfLQqu73hFZMhzTh2qWTvCqly6epUO-bAeyMgtwg%3D%3D&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+            - generic [ref=e1380]: "Black, Magsafe, Pack of: 1"
+            - generic [ref=e1381]:
+              - generic [ref=e1383]:
+                - text: "4.2"
+                - img [ref=e1384]
+              - text: (2,771)
+            - img [ref=e1386]
+            - link "₹201 ₹899 77% off" [ref=e1387] [cursor=pointer]:
+              - /url: /infinite-case-back-cover-apple-iphone-13/p/itmb45518f7f8ef2?pid=ACCGUBJGJDYHHUJA&lid=LSTACCGUBJGJDYHHUJA7ULAPW&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_38&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=en_YO1UISzDr7Cs42HwdMqYYkzXHe2aTSOK6xjJjW4xz6DuW2FfLQqu73hFZMhzTh2qWTvCqly6epUO-bAeyMgtwg%3D%3D&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - generic [ref=e1388]:
+                - generic [ref=e1389]: ₹201
+                - generic [ref=e1390]: ₹899
+                - generic [ref=e1391]: 77% off
+            - generic [ref=e1394]: Lowest price in the year
+          - generic [ref=e1396]:
+            - link "Celvas Back Cover for Apple iPhone 13" [ref=e1397] [cursor=pointer]:
+              - /url: /celvas-back-cover-apple-iphone-13/p/itmec68e6d79d543?pid=ACCGXUPDAGWZ5TVG&lid=LSTACCGXUPDAGWZ5TVGEKDMIK&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_39&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=6acfb0ba-72d7-4126-bcb1-06884884ccb2.ACCGXUPDAGWZ5TVG.SEARCH&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - img "Celvas Back Cover for Apple iPhone 13" [ref=e1401]
+              - img [ref=e1404]
+            - link "Celvas Back Cover for Apple iPhone 13" [ref=e1406] [cursor=pointer]:
+              - /url: /celvas-back-cover-apple-iphone-13/p/itmec68e6d79d543?pid=ACCGXUPDAGWZ5TVG&lid=LSTACCGXUPDAGWZ5TVGEKDMIK&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_39&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=6acfb0ba-72d7-4126-bcb1-06884884ccb2.ACCGXUPDAGWZ5TVG.SEARCH&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+            - generic [ref=e1407]: "White, Grip Case, Silicon, Pack of: 1"
+            - generic [ref=e1408]:
+              - generic [ref=e1410]:
+                - text: "4.2"
+                - img [ref=e1411]
+              - text: (2,844)
+            - img [ref=e1413]
+            - link "₹262 ₹999 73% off" [ref=e1414] [cursor=pointer]:
+              - /url: /celvas-back-cover-apple-iphone-13/p/itmec68e6d79d543?pid=ACCGXUPDAGWZ5TVG&lid=LSTACCGXUPDAGWZ5TVGEKDMIK&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_39&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=6acfb0ba-72d7-4126-bcb1-06884884ccb2.ACCGXUPDAGWZ5TVG.SEARCH&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - generic [ref=e1415]:
+                - generic [ref=e1416]: ₹262
+                - generic [ref=e1417]: ₹999
+                - generic [ref=e1418]: 73% off
+            - generic [ref=e1421]: Lowest price in the year
+          - generic [ref=e1423]:
+            - link "APH PRIME Back Cover for Apple iPhone 13" [ref=e1424] [cursor=pointer]:
+              - /url: /aph-prime-back-cover-apple-iphone-13/p/itm3016258766dce?pid=ACCHHD3Z3PQBRCQT&lid=LSTACCHHD3Z3PQBRCQTWHQYH1&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_40&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=6acfb0ba-72d7-4126-bcb1-06884884ccb2.ACCHHD3Z3PQBRCQT.SEARCH&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - img "APH PRIME Back Cover for Apple iPhone 13" [ref=e1428]
+              - img [ref=e1431]
+            - link "APH PRIME Back Cover for Apple iPhone 13" [ref=e1433] [cursor=pointer]:
+              - /url: /aph-prime-back-cover-apple-iphone-13/p/itm3016258766dce?pid=ACCHHD3Z3PQBRCQT&lid=LSTACCHHD3Z3PQBRCQTWHQYH1&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_40&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=6acfb0ba-72d7-4126-bcb1-06884884ccb2.ACCHHD3Z3PQBRCQT.SEARCH&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+            - generic [ref=e1434]: "Orange, Dual Protection, Pack of: 1"
+            - generic [ref=e1435]:
+              - generic [ref=e1437]:
+                - text: "4.2"
+                - img [ref=e1438]
+              - text: (636)
+            - img [ref=e1440]
+            - link "₹648 ₹1,199 45% off" [ref=e1441] [cursor=pointer]:
+              - /url: /aph-prime-back-cover-apple-iphone-13/p/itm3016258766dce?pid=ACCHHD3Z3PQBRCQT&lid=LSTACCHHD3Z3PQBRCQTWHQYH1&marketplace=FLIPKART&q=iphone+13+cover&store=tyy%2F4mr%2Fq2u&srno=s_1_40&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&fm=Search&iid=6acfb0ba-72d7-4126-bcb1-06884884ccb2.ACCHHD3Z3PQBRCQT.SEARCH&ppt=sp&ppn=sp&ssid=5eib7bhvpc0000001763551254398&qH=4e403350dbf431b6
+              - generic [ref=e1442]:
+                - generic [ref=e1443]: ₹648
+                - generic [ref=e1444]: ₹1,199
+                - generic [ref=e1445]: 45% off
+            - generic [ref=e1448]: Only few left
+        - generic [ref=e1451]:
+          - generic [ref=e1452]: Page 1 of 888
+          - navigation [ref=e1453]:
+            - link "1" [ref=e1454] [cursor=pointer]:
+              - /url: /search?q=iphone+13+cover&as=on&as-show=on&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&as-pos=6&as-type=RECENT&suggestionId=iphone+13+cover&requestId=9f84b437-baea-4b3a-ab44-e44f779ebff9&as-searchtext=iPhone+13&page=1
+            - link "2" [ref=e1455] [cursor=pointer]:
+              - /url: /search?q=iphone+13+cover&as=on&as-show=on&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&as-pos=6&as-type=RECENT&suggestionId=iphone+13+cover&requestId=9f84b437-baea-4b3a-ab44-e44f779ebff9&as-searchtext=iPhone+13&page=2
+            - link "3" [ref=e1456] [cursor=pointer]:
+              - /url: /search?q=iphone+13+cover&as=on&as-show=on&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&as-pos=6&as-type=RECENT&suggestionId=iphone+13+cover&requestId=9f84b437-baea-4b3a-ab44-e44f779ebff9&as-searchtext=iPhone+13&page=3
+            - link "4" [ref=e1457] [cursor=pointer]:
+              - /url: /search?q=iphone+13+cover&as=on&as-show=on&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&as-pos=6&as-type=RECENT&suggestionId=iphone+13+cover&requestId=9f84b437-baea-4b3a-ab44-e44f779ebff9&as-searchtext=iPhone+13&page=4
+            - link "5" [ref=e1458] [cursor=pointer]:
+              - /url: /search?q=iphone+13+cover&as=on&as-show=on&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&as-pos=6&as-type=RECENT&suggestionId=iphone+13+cover&requestId=9f84b437-baea-4b3a-ab44-e44f779ebff9&as-searchtext=iPhone+13&page=5
+            - link "6" [ref=e1459] [cursor=pointer]:
+              - /url: /search?q=iphone+13+cover&as=on&as-show=on&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&as-pos=6&as-type=RECENT&suggestionId=iphone+13+cover&requestId=9f84b437-baea-4b3a-ab44-e44f779ebff9&as-searchtext=iPhone+13&page=6
+            - link "7" [ref=e1460] [cursor=pointer]:
+              - /url: /search?q=iphone+13+cover&as=on&as-show=on&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&as-pos=6&as-type=RECENT&suggestionId=iphone+13+cover&requestId=9f84b437-baea-4b3a-ab44-e44f779ebff9&as-searchtext=iPhone+13&page=7
+            - link "8" [ref=e1461] [cursor=pointer]:
+              - /url: /search?q=iphone+13+cover&as=on&as-show=on&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&as-pos=6&as-type=RECENT&suggestionId=iphone+13+cover&requestId=9f84b437-baea-4b3a-ab44-e44f779ebff9&as-searchtext=iPhone+13&page=8
+            - link "9" [ref=e1462] [cursor=pointer]:
+              - /url: /search?q=iphone+13+cover&as=on&as-show=on&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&as-pos=6&as-type=RECENT&suggestionId=iphone+13+cover&requestId=9f84b437-baea-4b3a-ab44-e44f779ebff9&as-searchtext=iPhone+13&page=9
+            - link "10" [ref=e1463] [cursor=pointer]:
+              - /url: /search?q=iphone+13+cover&as=on&as-show=on&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&as-pos=6&as-type=RECENT&suggestionId=iphone+13+cover&requestId=9f84b437-baea-4b3a-ab44-e44f779ebff9&as-searchtext=iPhone+13&page=10
+            - link "Next" [ref=e1464] [cursor=pointer]:
+              - /url: /search?q=iphone+13+cover&as=on&as-show=on&otracker=AS_Query_OrganicAutoSuggest_6_9_na_na_na&otracker1=AS_Query_OrganicAutoSuggest_6_9_na_na_na&as-pos=6&as-type=RECENT&suggestionId=iphone+13+cover&requestId=9f84b437-baea-4b3a-ab44-e44f779ebff9&as-searchtext=iPhone+13&page=2
+        - generic [ref=e1466]:
+          - text: Did you find what you were looking for?
+          - generic [ref=e1467]:
+            - generic [ref=e1468] [cursor=pointer]: "Yes"
+            - generic [ref=e1469] [cursor=pointer]: "No"
+    - generic [ref=e1471]:
+      - generic [ref=e1472]: Reviews for Popular Cases & Covers
+      - generic [ref=e1473]:
+        - generic [ref=e1474]:
+          - generic [ref=e1476]:
+            - img "gadvik Back Cover for Apple iPhone 13"
+          - generic [ref=e1477]:
+            - link "1. gadvik Back Cover for Apple... 4 1,611 Ratings&126 Reviews ₹207 83% off" [ref=e1478] [cursor=pointer]:
+              - /url: /gadvik-back-cover-apple-iphone-13/p/itme2585625942ea?pid=ACCHFJ2QRDEMYGWY&marketplace=FLIPKART
+              - generic [ref=e1480]: 1. gadvik Back Cover for Apple...
+              - generic [ref=e1481]:
+                - generic [ref=e1482]:
+                  - text: "4"
+                  - img [ref=e1483]
+                - generic [ref=e1484]:
+                  - text: 1,611 Ratings
+                  - generic [ref=e1485]: "&126 Reviews"
+              - generic [ref=e1487]:
+                - generic [ref=e1488]: ₹207
+                - generic [ref=e1489]: 83% off
+            - list [ref=e1490]:
+              - listitem [ref=e1491]: "Suitable For: Mobile"
+              - listitem [ref=e1492]: "Material: Silicon"
+              - listitem [ref=e1493]: "Theme: No Theme"
+        - generic [ref=e1494]:
+          - generic [ref=e1495]: Most Helpful Review
+          - generic [ref=e1497]:
+            - generic [ref=e1498]:
+              - generic [ref=e1499]:
+                - text: "5"
+                - img [ref=e1500]
+              - paragraph [ref=e1501]: Fabulous!
+            - generic [ref=e1505]: Good feting and also looking good
+            - generic [ref=e1507]:
+              - paragraph [ref=e1508]: Arobindo Podder
+              - img [ref=e1509]
+              - paragraph [ref=e1513]: Certified Buyer
+              - paragraph [ref=e1514]: 8 months ago
+        - generic [ref=e1515]:
+          - generic [ref=e1516]: Recent Review
+          - generic [ref=e1518]:
+            - generic [ref=e1519]:
+              - generic [ref=e1520]:
+                - text: "5"
+                - img [ref=e1521]
+              - paragraph [ref=e1522]: Terrific purchase
+            - generic [ref=e1526]: Amazing quality and it also worth of money
+            - generic [ref=e1528]:
+              - paragraph [ref=e1529]: Rathod Divyaraj
+              - img [ref=e1530]
+              - paragraph [ref=e1534]: Certified Buyer
+              - paragraph [ref=e1535]: 2 days ago
+      - generic [ref=e1536]:
+        - generic [ref=e1537]:
+          - generic [ref=e1539]:
+            - img "LAMIYANA Back Cover for Apple iPhone 13"
+          - generic [ref=e1540]:
+            - link "2. LAMIYANA Back Cover for App... 4.1 675 Ratings&23 Reviews ₹142 85% off" [ref=e1541] [cursor=pointer]:
+              - /url: /lamiyana-back-cover-apple-iphone-13/p/itmbc03094b5f0d6?pid=ACCH4PHAHQUJYXDP&marketplace=FLIPKART
+              - generic [ref=e1543]: 2. LAMIYANA Back Cover for App...
+              - generic [ref=e1544]:
+                - generic [ref=e1545]:
+                  - text: "4.1"
+                  - img [ref=e1546]
+                - generic [ref=e1547]:
+                  - text: 675 Ratings
+                  - generic [ref=e1548]: "&23 Reviews"
+              - generic [ref=e1550]:
+                - generic [ref=e1551]: ₹142
+                - generic [ref=e1552]: 85% off
+            - list [ref=e1553]:
+              - listitem [ref=e1554]: "Suitable For: Mobile"
+              - listitem [ref=e1555]: "Material: Thermoplastic Polyurethane"
+              - listitem [ref=e1556]: "Theme: No Theme"
+        - generic [ref=e1557]:
+          - generic [ref=e1558]: Most Helpful Review
+          - generic [ref=e1560]:
+            - generic [ref=e1561]:
+              - generic [ref=e1562]:
+                - text: "5"
+                - img [ref=e1563]
+              - paragraph [ref=e1564]: Wonderful
+            - generic [ref=e1568]: Good quality ❤️👍 fantastic
+            - generic [ref=e1570]:
+              - paragraph [ref=e1571]: ankit jat
+              - img [ref=e1572]
+              - paragraph [ref=e1576]: Certified Buyer
+              - paragraph [ref=e1577]: 7 days ago
+        - generic [ref=e1578]:
+          - generic [ref=e1579]: Recent Review
+          - generic [ref=e1581]:
+            - generic [ref=e1582]:
+              - generic [ref=e1583]:
+                - text: "5"
+                - img [ref=e1584]
+              - paragraph [ref=e1585]: Wonderful
+            - generic [ref=e1589]: Good quality ❤️👍 fantastic
+            - generic [ref=e1591]:
+              - paragraph [ref=e1592]: ankit jat
+              - img [ref=e1593]
+              - paragraph [ref=e1597]: Certified Buyer
+              - paragraph [ref=e1598]: 7 days ago
+      - generic [ref=e1599]:
+        - generic [ref=e1600]:
+          - generic [ref=e1602]:
+            - img "Spigen Liquid Air Back Cover for Apple iPhone 13"
+          - generic [ref=e1603]:
+            - link "3. Spigen Liquid Air Back Cove... 4.4 235 Ratings&16 Reviews ₹899 57% off" [ref=e1604] [cursor=pointer]:
+              - /url: /spigen-liquid-air-back-cover-apple-iphone-13/p/itm3d95223a9ff6f?pid=ACCG6UH2YZTY6PTU&marketplace=FLIPKART
+              - generic [ref=e1606]: 3. Spigen Liquid Air Back Cove...
+              - generic [ref=e1607]:
+                - generic [ref=e1608]:
+                  - text: "4.4"
+                  - img [ref=e1609]
+                - generic [ref=e1610]:
+                  - text: 235 Ratings
+                  - generic [ref=e1611]: "&16 Reviews"
+              - generic [ref=e1613]:
+                - generic [ref=e1614]: ₹899
+                - generic [ref=e1615]: 57% off
+            - list [ref=e1616]:
+              - listitem [ref=e1617]: "Suitable For: Mobile"
+              - listitem [ref=e1618]: "Material: Thermoplastic Polyurethane"
+              - listitem [ref=e1619]: "Theme: No Theme"
+        - generic [ref=e1620]:
+          - generic [ref=e1621]: Most Helpful Review
+          - generic [ref=e1623]:
+            - generic [ref=e1624]:
+              - generic [ref=e1625]:
+                - text: "5"
+                - img [ref=e1626]
+              - paragraph [ref=e1627]: Fabulous!
+            - generic [ref=e1631]: Very happy to this covered this good and very likely
+            - generic [ref=e1633]:
+              - paragraph [ref=e1634]: shivam kumar
+              - img [ref=e1635]
+              - paragraph [ref=e1639]: Certified Buyer
+              - paragraph [ref=e1640]: Aug, 2022
+        - generic [ref=e1641]:
+          - generic [ref=e1642]: Recent Review
+          - generic [ref=e1644]:
+            - generic [ref=e1645]:
+              - generic [ref=e1646]:
+                - text: "5"
+                - img [ref=e1647]
+              - paragraph [ref=e1648]: Awesome
+            - generic [ref=e1652]: Parfect Fitting looking so Good
+            - generic [ref=e1654]:
+              - paragraph [ref=e1655]: Debasis Sethi
+              - img [ref=e1656]
+              - paragraph [ref=e1660]: Certified Buyer
+              - paragraph [ref=e1661]: 1 month ago
+      - generic [ref=e1662]:
+        - generic [ref=e1663]:
+          - generic [ref=e1665]:
+            - img "Monarch Back Cover for Apple iPhone 13"
+          - generic [ref=e1666]:
+            - link "4. Monarch Back Cover for Appl... 4.3 904 Ratings&70 Reviews ₹250 84% off" [ref=e1667] [cursor=pointer]:
+              - /url: /monarch-back-cover-apple-iphone-13/p/itm00de74d256bc0?pid=ACCGBF88ZHQ3GPGP&marketplace=FLIPKART
+              - generic [ref=e1669]: 4. Monarch Back Cover for Appl...
+              - generic [ref=e1670]:
+                - generic [ref=e1671]:
+                  - text: "4.3"
+                  - img [ref=e1672]
+                - generic [ref=e1673]:
+                  - text: 904 Ratings
+                  - generic [ref=e1674]: "&70 Reviews"
+              - generic [ref=e1676]:
+                - generic [ref=e1677]: ₹250
+                - generic [ref=e1678]: 84% off
+            - list [ref=e1679]:
+              - listitem [ref=e1680]: "Suitable For: Mobile"
+              - listitem [ref=e1681]: "Material: Thermoplastic Polyurethane"
+              - listitem [ref=e1682]: "Theme: No Theme"
+        - generic [ref=e1683]:
+          - generic [ref=e1684]: Most Helpful Review
+          - generic [ref=e1686]:
+            - generic [ref=e1687]:
+              - generic [ref=e1688]:
+                - text: "5"
+                - img [ref=e1689]
+              - paragraph [ref=e1690]: Fabulous!
+            - generic [ref=e1694]: very gd product and very good look
+            - generic [ref=e1696]:
+              - paragraph [ref=e1697]: Flipkart Customer
+              - img [ref=e1698]
+              - paragraph [ref=e1702]: Certified Buyer
+              - paragraph [ref=e1703]: 11 months ago
+        - generic [ref=e1704]:
+          - generic [ref=e1705]: Recent Review
+          - generic [ref=e1707]:
+            - generic [ref=e1708]:
+              - generic [ref=e1709]:
+                - text: "5"
+                - img [ref=e1710]
+              - paragraph [ref=e1711]: Highly recommended
+            - generic [ref=e1715]: Has a permium feel to it, day1. Overall if your a guy, youll like it and othwrs will too🙌
+            - generic [ref=e1717]:
+              - paragraph [ref=e1718]: ameya bangera
+              - img [ref=e1719]
+              - paragraph [ref=e1723]: Certified Buyer
+              - paragraph [ref=e1724]: 1 month ago
+      - generic [ref=e1725]:
+        - generic [ref=e1726]:
+          - generic [ref=e1728]:
+            - img "Spigen Slim Armor CS Back Cover for Apple iPhone 13"
+          - generic [ref=e1729]:
+            - link "5. Spigen Slim Armor CS Back C... 3.9 32 Ratings&3 Reviews ₹1,699 46% off" [ref=e1730] [cursor=pointer]:
+              - /url: /spigen-slim-armor-cs-back-cover-apple-iphone-13/p/itmde68b150c929d?pid=ACCG6UTRR5QMFVW2&marketplace=FLIPKART
+              - generic [ref=e1732]: 5. Spigen Slim Armor CS Back C...
+              - generic [ref=e1733]:
+                - generic [ref=e1734]:
+                  - text: "3.9"
+                  - img [ref=e1735]
+                - generic [ref=e1736]:
+                  - text: 32 Ratings
+                  - generic [ref=e1737]: "&3 Reviews"
+              - generic [ref=e1739]:
+                - generic [ref=e1740]: ₹1,699
+                - generic [ref=e1741]: 46% off
+            - list [ref=e1742]:
+              - listitem [ref=e1743]: "Suitable For: Mobile"
+              - listitem [ref=e1744]: "Material: Thermoplastic Polyurethane, Polycarbonate"
+              - listitem [ref=e1745]: "Theme: No Theme"
+        - generic [ref=e1746]:
+          - generic [ref=e1747]: Most Helpful Review
+          - generic [ref=e1749]:
+            - generic [ref=e1750]:
+              - generic [ref=e1751]:
+                - text: "5"
+                - img [ref=e1752]
+              - paragraph [ref=e1753]: Terrific
+            - generic [ref=e1756]:
+              - generic [ref=e1757]: One of the best phone back covers for iPhone 13. Geniune and high quality product from SPIGEN. My phone has the utmost protection when residing in this back ...
+              - generic [ref=e1758] [cursor=pointer]: Read full review
+            - generic [ref=e1760]:
+              - paragraph [ref=e1761]: Sameer Syed
+              - img [ref=e1762]
+              - paragraph [ref=e1766]: Certified Buyer
+              - paragraph [ref=e1767]: 10 months ago
+        - generic [ref=e1768]:
+          - generic [ref=e1769]: Recent Review
+          - generic [ref=e1771]:
+            - generic [ref=e1772]:
+              - generic [ref=e1773]:
+                - text: "5"
+                - img [ref=e1774]
+              - paragraph [ref=e1775]: Terrific
+            - generic [ref=e1778]:
+              - generic [ref=e1779]: One of the best phone back covers for iPhone 13. Geniune and high quality product from SPIGEN. My phone has the utmost protection when residing in this back ...
+              - generic [ref=e1780] [cursor=pointer]: Read full review
+            - generic [ref=e1782]:
+              - paragraph [ref=e1783]: Sameer Syed
+              - img [ref=e1784]
+              - paragraph [ref=e1788]: Certified Buyer
+              - paragraph [ref=e1789]: 10 months ago
+  - contentinfo [ref=e1790]:
+    - generic [ref=e1792]:
+      - generic [ref=e1793]:
+        - generic [ref=e1794]:
+          - generic [ref=e1795]: ABOUT
+          - link "Contact Us" [ref=e1796] [cursor=pointer]:
+            - /url: /helpcentre?otracker=footer_navlinks
+          - link "About Us" [ref=e1797] [cursor=pointer]:
+            - /url: https://corporate.flipkart.net/corporate-home
+          - link "Careers" [ref=e1798] [cursor=pointer]:
+            - /url: https://www.flipkartcareers.com/?otracker=footer_navlinks
+          - link "Flipkart Stories" [ref=e1799] [cursor=pointer]:
+            - /url: http://stories.flipkart.com/?otracker=footer_navlinks
+          - link "Press" [ref=e1800] [cursor=pointer]:
+            - /url: http://stories.flipkart.com/category/top-stories/news/
+          - link "Corporate Information" [ref=e1801] [cursor=pointer]:
+            - /url: /corporate-information
+        - generic [ref=e1802]:
+          - generic [ref=e1803]: GROUP COMPANIES
+          - link "Myntra" [ref=e1804] [cursor=pointer]:
+            - /url: https://www.myntra.com/
+          - link "Cleartrip" [ref=e1805] [cursor=pointer]:
+            - /url: https://www.cleartrip.com/
+          - link "Shopsy" [ref=e1806] [cursor=pointer]:
+            - /url: https://www.shopsy.in/
+        - generic [ref=e1807]:
+          - generic [ref=e1808]: HELP
+          - link "Payments" [ref=e1809] [cursor=pointer]:
+            - /url: /pages/payments
+          - link "Shipping" [ref=e1810] [cursor=pointer]:
+            - /url: /pages/shipping
+          - link "Cancellation & Returns" [ref=e1811] [cursor=pointer]:
+            - /url: /helpcentre?catalog=55c9c6edb000002e002c1701&view=CATALOG
+          - link "FAQ" [ref=e1812] [cursor=pointer]:
+            - /url: /helpcentre?catalog=55c9c8e2b0000023002c1702&view=CATALOG
+        - generic [ref=e1813]:
+          - generic [ref=e1814]: CONSUMER POLICY
+          - link "Cancellation & Returns" [ref=e1815] [cursor=pointer]:
+            - /url: /pages/returnpolicy?otracker=footer_navlinks
+          - link "Terms Of Use" [ref=e1816] [cursor=pointer]:
+            - /url: /pages/terms?otracker=footer_navlinks
+          - link "Security" [ref=e1817] [cursor=pointer]:
+            - /url: /pages/paymentsecurity?otracker=footer_navlinks
+          - link "Privacy" [ref=e1818] [cursor=pointer]:
+            - /url: /pages/privacypolicy?otracker=footer_navlinks
+          - link "Sitemap" [ref=e1819] [cursor=pointer]:
+            - /url: /sitemap?otracker=footer_navlinks
+          - link "Grievance Redressal" [ref=e1820] [cursor=pointer]:
+            - /url: /pages/grievance-redressal-mechanism?otracker=footer_navlinks
+          - link "EPR Compliance" [ref=e1821] [cursor=pointer]:
+            - /url: /pages/ewaste-compliance-tnc?otracker=footer_navlinks
+          - link "FSSAI Food Safety Connect App" [ref=e1822] [cursor=pointer]:
+            - /url: https://fssai.gov.in/cms/food-safety-connect.php
+        - generic [ref=e1824]:
+          - generic [ref=e1825]: "Mail Us:"
+          - generic [ref=e1828]:
+            - paragraph [ref=e1829]: Flipkart Internet Private Limited,
+            - paragraph [ref=e1830]: Buildings Alyssa, Begonia &
+            - paragraph [ref=e1831]: Clove Embassy Tech Village,
+            - paragraph [ref=e1832]: Outer Ring Road, Devarabeesanahalli Village,
+            - paragraph [ref=e1833]: Bengaluru, 560103,
+            - paragraph [ref=e1834]: Karnataka, India
+          - generic [ref=e1835]: Social
+          - generic [ref=e1836]:
+            - link [ref=e1838] [cursor=pointer]:
+              - /url: https://www.facebook.com/flipkart
+              - img [ref=e1839]
+            - link [ref=e1841] [cursor=pointer]:
+              - /url: https://www.twitter.com/flipkart
+              - img [ref=e1842]
+            - link [ref=e1844] [cursor=pointer]:
+              - /url: https://www.youtube.com/flipkart
+              - img [ref=e1845]
+            - link [ref=e1847] [cursor=pointer]:
+              - /url: https://www.instagram.com/flipkart
+              - img [ref=e1848]
+        - generic [ref=e1850]:
+          - generic [ref=e1851]: "Registered Office Address:"
+          - generic [ref=e1854]:
+            - paragraph [ref=e1855]: Flipkart Internet Private Limited,
+            - paragraph [ref=e1856]: Buildings Alyssa, Begonia &
+            - paragraph [ref=e1857]: Clove Embassy Tech Village,
+            - paragraph [ref=e1858]: Outer Ring Road, Devarabeesanahalli Village,
+            - paragraph [ref=e1859]: Bengaluru, 560103,
+            - paragraph [ref=e1860]: Karnataka, India
+            - paragraph [ref=e1861]: "CIN : U51109KA2012PTC066107"
+            - paragraph [ref=e1862]:
+              - text: "Telephone:"
+              - link "044-45614700" [ref=e1863] [cursor=pointer]:
+                - /url: tel:044-45614700
+              - text: /
+              - link "044-67415800" [ref=e1864] [cursor=pointer]:
+                - /url: tel:044-67415800
+      - generic [ref=e1866]:
+        - generic [ref=e1867]:
+          - img [ref=e1868]
+          - link "Become a Seller" [ref=e1869] [cursor=pointer]:
+            - /url: https://seller.flipkart.com/?utm_source=fkwebsite&utm_medium=websitedirect
+        - generic [ref=e1870]:
+          - img [ref=e1871]
+          - link "Advertise" [ref=e1872] [cursor=pointer]:
+            - /url: https://brands.flipkart.com
+        - generic [ref=e1873]:
+          - img [ref=e1874]
+          - link "Gift Cards" [ref=e1875] [cursor=pointer]:
+            - /url: /the-gift-card-store?otracker=footer_navlinks
+        - generic [ref=e1876]:
+          - img [ref=e1877]
+          - link "Help Center" [ref=e1878] [cursor=pointer]:
+            - /url: /helpcentre?otracker=footer_navlinks
+        - generic [ref=e1879]: © 2007-2025 Flipkart.com
+        - img [ref=e1880]
+```
